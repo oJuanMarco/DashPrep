@@ -12,6 +12,8 @@ for tabela in tabelas:
     print(f"Dados da tabela {str(tabelas[var]).capitalize()}:")
     dados = read_file(tabela)
     for colunm in dados.columns:
-        print(dados[colunm].head(1))
+        # print(dados[colunm].head(1))
+        print(f"{colunm} = {dados[colunm].dtype}")
+        print(f"Exemplo de dado: {dados[colunm].iloc[0]}")
     print("\n")
     var+=1
