@@ -3,12 +3,15 @@ import pandas as pd
 from read import read_file
 from tables import clientes, contas, emprestimos, transacoes
 
-tabela1 = read_file(clientes)
-tabela2 = read_file(contas)
-tabela3 = read_file(emprestimos)
-tabela4 = read_file(transacoes)
+tabelas = [clientes,contas,emprestimos,transacoes]
 
 # print(tabela1+"oi") == Se eu somar a leitura à um elemento, todos os elementos da tabela
 # serão afetados
-for colunm in tabela1.columns:
-    print(colunm)
+var = 0
+for tabela in tabelas:
+    print(f"Dados da tabela {str(tabelas[var]).capitalize()}:")
+    dados = read_file(tabela)
+    for colunm in dados.columns:
+        print(dados[colunm].head(1))
+    print("\n")
+    var+=1
