@@ -1,4 +1,8 @@
+from functions.blank_space_remove import blank_space_remove
+from functions.list_colunms import list_colunms
+
 def treatment(query):
-    for colunm in query.columns:
-        query[colunm] = query[colunm].str.strip().str.upper()
-        print(query[colunm].iloc[:10])
+    
+    list_colunms(query)
+    blank_space_remove(query)
+    

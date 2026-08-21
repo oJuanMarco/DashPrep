@@ -18,12 +18,9 @@ for tabela in tabelas:
     # leitura dos dados da tabela pelo pandas
     dados = read_file(tabela)
     # localização da coluna: nome, tipo de dados e exemplo de entrada
-    for colunm in dados.columns:
-        print(f"{colunm} = {dados[colunm].dtype}")
-        print(f"Exemplo de dado: {dados[colunm].iloc[0]}")
-    print("\n")
+    treatment(dados)
     # soma de variavel pra passagem da proxima tabela
     var+=1
 
-teste = read_file(tabelas[0])
-treatment(teste)
+# teste = read_file(tabelas[0])
+# treatment(teste)
