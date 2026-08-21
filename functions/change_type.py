@@ -1,0 +1,1 @@
+# aqui tera 2 funções, uma de string obrigatória e outra pro tipo desejado

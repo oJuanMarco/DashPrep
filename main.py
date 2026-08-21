@@ -1,7 +1,7 @@
 # import do pandas para manipulação de dados, da função e variaveis pro funcionamento do código
 import pandas as pd
 from functions.read import read_file
-from functions.iteration import iteration
+from functions.treatment import treatment
 from variables.tables import clientes, contas, emprestimos, transacoes
 
 # lista com tabelas para identação no for e variavel para localizar qual a tabela referente
@@ -26,4 +26,4 @@ for tabela in tabelas:
     var+=1
 
 teste = read_file(tabelas[0])
-iteration(teste)
+treatment(teste)

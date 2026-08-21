@@ -1,0 +1,1 @@
+# função pra remover caracteres passados
