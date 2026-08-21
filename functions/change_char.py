@@ -1,1 +1,1 @@
-# função pra trocar os caracteres por algum estabelecido
+# função pra trocar os caracteres por algum estabelecido e de padronização de células
