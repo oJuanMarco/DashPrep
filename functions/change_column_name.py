@@ -20,9 +20,9 @@ def change_column_name(query):
     while True:
         # usuario utiliza guia da tabela colunas e decide se irá modificar algo manualemente
         # se não for ele só seguirá para a próxima etapa de ETL
-        resposta = input("Deseja alterar algum/outro dos titulos listados?(y/n): ").lower()
+        resposta = input("Deseja alterar algum/outro dos titulos listados?(s/n): ").lower()
         # confirmação do usuário
-        if resposta == 'y' or resposta=='n':
+        if resposta == 's' or resposta=='n':
             if resposta == 'n':
                 break
             else:
@@ -50,7 +50,7 @@ def change_column_name(query):
                         pass       
                 i = 0
         else:
-            print("Informe somente 'y' ou 'n'\n")
+            print("Informe somente 's' ou 'n'\n")
         
     clear_screen()
     colunas = []
