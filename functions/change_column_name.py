@@ -1,5 +1,8 @@
 # função recebe nomes de colunas e as modifica
 from functions.clear_screen import clear_screen
+# função de multipla escolha
+import questionary
+
 # função pra remover caracteres informados para cada coluna
 def change_column_name(query):
     colunas = []
@@ -20,37 +23,34 @@ def change_column_name(query):
     while True:
         # usuario utiliza guia da tabela colunas e decide se irá modificar algo manualemente
         # se não for ele só seguirá para a próxima etapa de ETL
-        resposta = input("Deseja alterar algum/outro dos titulos listados?(s/n): ").lower()
+        resposta = questionary.select('Deseja alterar algum/outro dos titulos listados?',choices = ['sim','não']).ask()
         # confirmação do usuário
-        if resposta == 's' or resposta=='n':
-            if resposta == 'n':
-                break
-            else:
-                # bloco de LookupError para escolha de qual nome deseja alterar
-                while i<=0 or i>len(colunas):
-                    try:
-                        i=int(input(f"Informe qual a posição (1-{len(colunas)}), de baixo pra cima, do título que deseja alterar: "))
-                    except ValueError:
-                        print("Informe somente os números de posição")
-                mudanca = input(f"Informe o nome novo de {colunas[i-1]} - ")
-                # iteração da lista de colunas e de colunas na tabela para verificar existencia e correspondencia para substituição
-                for elemento in colunas:
-                    if elemento == colunas[i-1]:
-                        j=0
-                        for column in query.columns:
-                            if j == i-1:
-                                query.rename(columns={query.columns[j]:mudanca.replace(" ","_").strip()},inplace=True)
-                                print(f"{column} trocada por {mudanca}")
-                                break
-                            else:
-                                j+=1
-                        print('\n')
-                        break
-                    else:
-                        pass       
-                i = 0
+        if resposta == 'não':
+            break
         else:
-            print("Informe somente 's' ou 'n'\n")
+            # bloco de LookupError para escolha de qual nome deseja alterar
+            while i<=0 or i>len(colunas):
+                try:
+                    i=int(input(f"Informe qual a posição (1-{len(colunas)}), de baixo pra cima, do título que deseja alterar: "))
+                except ValueError:
+                    print("Informe somente os números de posição")
+            mudanca = input(f"Informe o nome novo de {colunas[i-1]} - ")
+            # iteração da lista de colunas e de colunas na tabela para verificar existencia e correspondencia para substituição
+            for elemento in colunas:
+                if elemento == colunas[i-1]:
+                    j=0
+                    for column in query.columns:
+                        if j == i-1:
+                            query.rename(columns={query.columns[j]:mudanca.replace(" ","_").strip()},inplace=True)
+                            print(f"{column} trocada por {mudanca}")
+                            break
+                        else:
+                            j+=1
+                    print('\n')
+                    break
+                else:
+                    pass       
+            i = 0
         
     clear_screen()
     colunas = []

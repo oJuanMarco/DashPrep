@@ -1,8 +1,8 @@
 # função pra trocar os caracteres por algum estabelecido e de padronização de células
 from functions.clear_screen import clear_screen
-from pick import pick
-
-def char_remove(query):
+import questionary
+# add função de trocar mes escrito por numero
+def char_change(query):
     lista_de_substituíveis = []
     lista_de_substitutos = []
 
@@ -14,14 +14,14 @@ def char_remove(query):
         i = 0
 
         while True:
-            caractere_para_substituir = input("Informe o caractere que deseja substituir desta coluna (enter pra sair):")
-            if caractere == '':
+            caractere_para_substituir = input("Informe o caractere que deseja substituir desta coluna (enter pra sair): ")
+            if caractere_para_substituir == '':
                 break
             else:
                 lista_de_substituíveis.append(caractere_para_substituir)
-                caractere_substituto = input(f"Informe o caractere que deseja incluir desta coluna pelo {lista_de_substituíveis[i]}: ")
+                caractere_substituto = input(f"Informe o caractere que deseja incluir desta coluna pelo '{lista_de_substituíveis[i]}': ")
                 while True:
-                    if caractere == '':
+                    if caractere_substituto == '':
                         print("Informe um caractere válido, tente apertar espaço de quiser removêlo ;)\n")
                     else:
                         lista_de_substitutos.append(caractere_substituto)
@@ -32,22 +32,21 @@ def char_remove(query):
             query[colunm] = query[colunm].str.replace(lista_de_substituíveis[i],lista_de_substitutos[i])
 
         while True:
-            resposta = input("Deseja alterar o padrão de informações nos textos? (s/n): ")
-            if resposta == 's' or resposta=='n':
-                if resposta == 'n':
-                    break
-                else:
-                    resposta = pick(['Tudo maiúsculo','Tudo minúsculo','Iniciais maiúsculas'],'Escolha a formatação desejada para as informações em texto: ')
-                    match resposta:
-                        case "Tudo maiúsculo":
-                            query[colunm]=query[colunm].str.upper()
-                        case "Tudo minúsculo":
-                            query[colunm]=query[colunm].str.lower()
-                        case _:
-                            query[colunm]=query[colunm].str.title()
+            resposta = questionary.select('Deseja alterar o padrão de informações nos textos?',choices = ['sim','não']).ask()
+            if resposta == 'não':
+                break
             else:
-                print("Informe somente 's' ou 'n'\n")
-
+                resposta = questionary.select('Escolha a formatação desejada para as informações em texto: ',choices = ['Tudo maiúsculo','Tudo minúsculo','Iniciais maiúsculas']).ask()
+                match resposta:
+                    case "Tudo maiúsculo":
+                        query[colunm]=query[colunm].str.upper()
+                        break
+                    case "Tudo minúsculo":
+                        query[colunm]=query[colunm].str.lower()
+                        break
+                    case _:
+                        query[colunm]=query[colunm].str.title()
+                        break
 
         clear_screen()
         lista_de_substituíveis = []
