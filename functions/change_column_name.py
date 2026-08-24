@@ -13,22 +13,20 @@ def change_column_name(query):
     for column in query.columns:
         column = f'{column}'.lower().replace(" ","_")
         query.rename(columns={query.columns[j]:column},inplace=True)
-        print(f"-{column}")
+        print(f"{j+1}-{column}")
         colunas.append(column)
         j+=1
-
-    print("\n")
     i=0
     # loop com condicionais que auxilia o usuário à realizar modificações manuais
     while True:
         # usuario utiliza guia da tabela colunas e decide se irá modificar algo manualemente
         # se não for ele só seguirá para a próxima etapa de ETL
-        resposta = questionary.select('Deseja alterar algum/outro dos titulos listados?',choices = ['sim','não']).ask()
+        resposta = questionary.select('Deseja alterar algum/outro dos titulos listados?',choices = ['não','sim']).ask()
         # confirmação do usuário
         if resposta == 'não':
             break
         else:
-            # bloco de LookupError para escolha de qual nome deseja alterar
+            # bloco de loop para escolha de qual nome deseja alterar
             while i<=0 or i>len(colunas):
                 try:
                     i=int(input(f"Informe qual a posição (1-{len(colunas)}), de baixo pra cima, do título que deseja alterar: "))
@@ -46,7 +44,6 @@ def change_column_name(query):
                             break
                         else:
                             j+=1
-                    print('\n')
                     break
                 else:
                     pass       

@@ -52,7 +52,7 @@ def char_change(query):
         # loop de decisão onde é possível alterar o padrão das strings para todas corresponderem aos mesmos algorismos (case sensitive)
         while True:
             # usuário informa por meio do terminal se deseja fazer essa alteração (se o padrão já estiver tratado não faz sentido entrar no loop)
-            resposta = questionary.select('Deseja alterar o padrão de informações nos textos?',choices = ['sim','não']).ask()
+            resposta = questionary.select('Deseja alterar o padrão de informações nos textos?',choices = ['não','sim']).ask()
             if resposta == 'não':
                 break
             # se usuário informa não, sai e segue tratamento, caso contrário, entra e escolhe o padrão definido, também pelo terminal

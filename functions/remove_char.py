@@ -1,4 +1,5 @@
 from functions.clear_screen import clear_screen
+import questionary
 
 # função pra remover caracteres informados para cada coluna
 def char_remove(query):
@@ -19,7 +20,13 @@ def char_remove(query):
                 lista_de_removiveis.append(caractere)
         # loop de substituição+limpeza para melhor view+limpeza de lista para proximas colunas
         for i in range(len(lista_de_removiveis)):
-            query[column] = query[column].str.replace(lista_de_removiveis[i],'').replace(' ',"").strip()
+            query[column] = query[column].str.replace(lista_de_removiveis[i],'')
+        
+        resposta = questionary.select('Deseja tirar todos os espaços brancos da coluna?',choices = ['não','sim']).ask()
+        if resposta=='não':
+            pass
+        else:
+            query[column] = query[column].str.replace(' ',"")
 
         clear_screen()
         lista_de_removiveis = []
