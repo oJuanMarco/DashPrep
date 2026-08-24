@@ -8,11 +8,10 @@ def char_change(query):
     lista_de_substituíveis = []
     lista_de_substitutos = []
     # entrada de iteração de colunas nas tabelas
-    for colunm in query.columns:
+    for column in query.columns:
         # view do usuário sobre qual coluna estamos e quais dados guarda
-        print(f"\n{colunm} = {query[colunm].dtype}")
-        print(f"Exemplo de dados: \n{query[colunm].iloc[1:6]}")
-        print("\n")
+        print(f"\n{column} = {query[column].dtype}")
+        print(f"Exemplo de dados: \n{query[column].iloc[1:6]}")
         # entrada de blocos for nas funções de troca automática dos meses e de troca manual
         i = 0
         j = 0
@@ -20,9 +19,13 @@ def char_change(query):
         meses_ext = ['jan','fev','mar','abr','mai','jun','jul','ago','set','out','nov','dez']
         meses_num = ['01','02','03','04','05','06','07','08','09','10','11','12']
         # condição que leva à iteração de meses utilizando as lista acima para fazer as trocas
-        if 'data' in colunm:
+        if 'data' in column:
+            query[column] = query[column].str.replace("/","-")
             for j in range(len(meses_ext)):
-                query[colunm] = query[colunm].str.replace(meses_ext[j],meses_num[j])
+                query[column] = query[column].str.replace(meses_ext[j],meses_num[j])
+        # condição que verifica as entradas de valores para substituir as virgulas e tirar os pontos do milhar
+        if query[column].astype(str).str.contains(',').any():
+            query[column] = query[column].apply(lambda x: x.replace('.', '').replace(',', '.') if isinstance(x, str) and ',' in x else x)
         # loop de entrada para a altrações manuais
         while True:
             caractere_para_substituir = input("Informe o caractere que deseja substituir desta coluna (enter pra sair): ")
@@ -37,6 +40,7 @@ def char_change(query):
                 while True:
                     if caractere_substituto == '':
                         print("Informe um caractere válido, tente apertar espaço de quiser removêlo ;)\n")
+                        break
                     else:
                         lista_de_substitutos.append(caractere_substituto)
                         # o usuário informa a troca, o programa responde sobre a decisão e adiciona os carateres nas listas
@@ -44,7 +48,7 @@ def char_change(query):
                         break
         # programa itera listas e substitui os caracteres de mesma ordem pela coluna inteira
         for i in range(len(lista_de_substituíveis)):
-            query[colunm] = query[colunm].str.replace(lista_de_substituíveis[i],lista_de_substitutos[i])
+            query[column] = query[column].str.replace(lista_de_substituíveis[i],lista_de_substitutos[i])
         # loop de decisão onde é possível alterar o padrão das strings para todas corresponderem aos mesmos algorismos (case sensitive)
         while True:
             # usuário informa por meio do terminal se deseja fazer essa alteração (se o padrão já estiver tratado não faz sentido entrar no loop)
@@ -58,13 +62,13 @@ def char_change(query):
                 # match que dependendo da entrada escolhe qual será o comando para as linhas da coluna e então sai do loop
                 match resposta:
                     case "Tudo maiúsculo":
-                        query[colunm]=query[colunm].str.upper()
+                        query[column]=query[column].str.upper()
                         break
                     case "Tudo minúsculo":
-                        query[colunm]=query[colunm].str.lower()
+                        query[column]=query[column].str.lower()
                         break
                     case _:
-                        query[colunm]=query[colunm].str.title()
+                        query[column]=query[column].str.title()
                         break
         # aqui limpa a tela e reseta lista para dar sequência à proxima coluna de maneira mais clara ao usuário e não dar conflito entre caracteres de colunas distintas
         clear_screen()
