@@ -4,7 +4,7 @@ from functions.read import read_file
 from functions.treatment import treatment
 from variables.tables import clientes, contas, emprestimos, transacoes
 
-# lista com tabelas para identação no for e variavel para localizar qual a tabela referente
+# lista com tabelas para iteração no for e variavel para localizar qual a tabela referente
 tabelas = [clientes,contas,emprestimos,transacoes]
 var = 0
 
@@ -18,5 +18,6 @@ for tabela in tabelas:
     tratamento = treatment(dados)
     # exporta cópia de tabela tratada
     tratamento.to_csv(f"{tabela}_nova.csv",index=False)
+    input(f"{tabela} exportada com sucesso!")
     # soma de variavel pra passagem da proxima tabela
     var+=1

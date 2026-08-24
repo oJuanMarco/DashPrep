@@ -1,0 +1,837 @@
+id_cliente,nome_completo,cpf,data_nascimento,e-mail,telefone,cidade,uf,renda_mensal,segmento,data_cadastro
+CLT-0434,Renato Santos Freitas,0808157129,1991-05-06,renato.freitas95@yahoo.com.br,61919968593,Vitória,ES,2518.46,varejo,2024-03-01
+CLT-0779,Renato Araújo,70411678815,1965-04-09,renato.araujo6@hotmail.com,51975498540,Florianópolis,SC,5019.88,private,2022-09-13
+CLT-0418,Priscila Barbosa,68299687225,1971-09-02,priscila.barbosa58@outlook.com,62916259718,Fortaleza,CE,48776.35,varejo,2023-12-10
+CLT-0049,César Cardoso,7575844198,1997-10-30,cesar.cardoso25@hotmail.com,61933995758,Salvador,BA,19297.83,premium,2016-09-10
+CLT-0217,Igor Rodrigues Freitas,02497243992,1984-10-07,igor.freitas90@gmail.com,19972977515,São Paulo,SP,2731.99,private,2016-10-20
+CLT-0078,Ana Santos,21510702966,1960-11-23,ana.santos83@gmail.com,71938316799,Rio De Janeiro,RJ,2581.11,varejo,2021-04-11
+CLT-0463,Diego Rocha,22759500260,1984-11-26,diego.rocha30@outlook.com,,Florianópolis,SC,7694.75,private,2020-10-27
+CLT-0535,Renato Oliveira,49680664051,1999-01-18,renato.oliveira29@outlook.com,31924923637,Manaus,AM,7050.3,premium,2019-05-26
+CLT-0578,Sofia Rodrigues,84025787036,1971-11-18,sofia.rodrigues32@outlook.com,11974444874,Rio De Janeiro,RJ,2846.87,varejo,2024-09-25
+CLT-0336,Gustavo Santos,45273466661,1966-11-24,gustavo.santos76@gmail.com,61989317370,Salvador,BA,56474.68,premium,2021-10-06
+CLT-0811,Ana Freitas,58061949991,1978-04-27,ana.freitas14@gmail.com,62971221592,Vitoria,ES,1450.88,private,2017-02-16
+CLT-0579,Igor Rodrigues,94523759795,2006-10-25,,19940587429,Salvador,BA,1560.18,varejo,2024-08-26
+CLT-0792,Juliana Oliveira,01196227238,1994-11-04,juliana.oliveira41@outlook.com,51930592621,Belém,PA,36410.86,varejo,2024-12-24
+CLT-0809,Carla Monteiro,21215603871,1971-07-05,carla.monteiro82@hotmail.com,41964086084,Manaus,AM,17294.34,varejo,2024-07-31
+CLT-0678,Paulo Cardoso Martins,68063585301,1952-12-26,paulo.martins39@bol.com.br,31981979999,Florianópolis,SC,12935.27,varejo,2016-11-19
+CLT-0135,Lucas Souza,77671990384,1975-11-28,,41918014028,Porto Alegre,RS,44319.36,varejo,2015-10-28
+CLT-0470,Olívia Costa Rocha,59930202030,2005-06-03,olivia.rocha36@hotmail.com,31945883149,São Paulo,SP,2908.51,varejo,2023-01-21
+CLT-0757,Marcos Rodrigues,3387885285,1950-08-19,marcos.rodrigues82@yahoo.com.br,85927189947,Brasília,DF,15132.73,premium,2020-07-04
+CLT-0429,Bruno Rodrigues,92950143748,1968-02-14,bruno.rodrigues42@gmail.com,,Florianópolis,SC,2312.47,varejo,2026-03-18
+CLT-0333,Natália Ribeiro Costa,39220715116,1998-04-21,natalia.costa7@outlook.com,71976777247,Curitiba,PR,22545.15,premium,2022-09-13
+CLT-0719,Samuel Oliveira,69744203607,1982-11-20,samuel.oliveiragmail.com,51998944090,Belém,PA,3253.7,premium,2023-05-10
+CLT-0630,Eduarda Campos,71859212684,1986-06-30,eduarda.campos88@yahoo.com.br,41991582372,Goiânia,GO,13733.88,varejo,2021-12-27
+CLT-0011,Igor Oliveira,29946804436,1982-09-04,igor.oliveira65@outlook.com,61986188238,Manaus,AM,4967.82,varejo,2025-12-08
+CLT-0326,Karina Nascimento,50184819737,1985-06-02,karina.nascimento18@yahoo.com.br,62984443517,Florianópolis,SC,26073.85,varejo,2022-08-28
+CLT-0756,César Carvalho,01522133689,1977-05-27,CESAR.CARVALHO@HOTMAIL.COM,85942075461,Florianópolis,SC,14839.85,private,2016-07-30
+CLT-0080,Olívia Teixeira Barbosa,78427010393,1973-11-29,olivia.barbosa95@outlook.com,61943003137,Rio De Janeiro,RJ,3626.93,varejo,2022-04-04
+CLT-0079,Marcos Ribeiro,59856420593,1976-06-23,marcos.ribeiro68@hotmail.com,51919598728,Belo Horizonte,MG,17538.15,varejo,2020-03-21
+CLT-0267,Gustavo Costa,50198038287,2054-10-21,gustavo.costagmail.com,19935355929,Salvador,BA,1420.32,premium,2015-02-22
+CLT-0720,Nicolas Barbosa,70150196797,1999-10-30,nicolas.barbosa77@hotmail.com,31967402206,Fortaleza,CE,8905.73,varejo,2018-06-21
+CLT-0684,Samuel Lima,33891478524,1978-04-23,samuel.limagmail.com,31910434079,Belém,PA,14383.21,varejo,2017-04-24
+CLT-0281,Sofia Costa,2702164871,1970-12-08,sofia.costa37@outlook.com,11937352196,Campinas,SP,59329.91,premium,2023-09-15
+CLT-0258,Bruno Oliveira Lima,1591030021,1953-04-27,bruno.lima52@gmail.com,41937882442,Porto Alegre,RS,35733.1,varejo,2023-10-04
+CLT-0762,João Pereira,55950263560,1959-04-11,,85961054545,Salvador,BA,2149.65,private,2024-12-03
+CLT-0021,Larissa Monteiro,68071545168,1965-09-19,larissa.monteiro12@yahoo.com.br,85985697770,Goiânia,GO,16041.6,varejo,2026-03-07
+CLT-0515,Wesley Rocha,35158807053,1952-01-13,WESLEY.ROCHA@HOTMAIL.COM,62929912996,Belém,PA,42410.96,private,2016-10-15
+CLT-0558,Olívia Carvalho Gomes,85362689047,1966-05-25,olivia.gomes55@outlook.com,62953612035,Campinas,SP,3051.49,varejo,2015-01-27
+CLT-0790,Marcos Almeida,48674163712,1999-02-23,,81964546655,Curitiba,PR,11064.03,varejo,2025-10-13
+CLT-0784,Igor Ferreira Gomes,9900479412,1950-11-11,igor.gomes92@gmail.com,71911332414,Porto Alegre,RS,7555.3,varejo,2017-07-21
+CLT-0681,Bruno Rodrigues,99000940656,1975-03-31,bruno.rodrigues57@outlook.com,41957595315,Fortaleza,CE,3897.2,premium,2022-06-25
+CLT-0548,Igor Dias Ribeiro,88640675602,1976-11-10,igor.ribeiro83@outlook.com,62926923814,Curitiba,PR,13871.02,varejo,2016-09-28
+CLT-0155,Bruno Lima Monteiro,31797062397,1959-05-15,bruno.monteiro26@outlook.com,,Belém,PA,29484.73,premium,2017-08-11
+CLT-0540,Érico Santos Nascimento,04169105302,2050-05-25,erico.nascimento96@gmail.com,71988036975,Vitória,ES,14934.65,varejo,2023-09-15
+CLT-0167,Natália Dias,75480157164,1969-03-14,natalia.dias49@yahoo.com.br,19982734700,Brasília,DF,1771.4,varejo,2024-06-08
+CLT-0788,Mariana Freitas,23370071580,1952-10-12,mariana.freitas3@gmail.com,21954941795,Belém,PA,43887.84,varejo,2019-04-02
+CLT-0527,Otávio Freitas,98654622021,2001-02-04,otavio.freitas42@hotmail.com,62990553431,Porto Alegre,RS,1912.93,varejo,2022-05-17
+CLT-0650,Marcos Araújo,4290695222,2000-05-06,marcos.araujo3@gmail.com,41929501256,Manaus,AM,20527.71,premium,2015-04-22
+CLT-0469,Renato Oliveira,93186928972,1999-05-14,renato.oliveira89@gmail.com,,Curitiba,PR,16505.96,private,2025-10-09
+CLT-0417,Thiago Cardoso,94842495988,2000-01-08,thiago.cardoso3@hotmail.com,51966818403,Fortaleza,CE,7633.64,premium,2015-10-21
+CLT-0188,Wesley Souza,21376037548,2004-11-10,wesley.souza21@outlook.com,62977996908,Florianópolis,SC,6928.84,premium,2024-06-16
+CLT-0354,Isabela Martins Silva,45990802711,2004-01-06,isabela.silva93@yahoo.com.br,31948502505,Porto Alegre,RS,15755.94,premium,2022-02-08
+CLT-0456,Thiago Ribeiro Pereira,89826041809,2005-12-02,,21985526918,Goiânia,GO,19319.22,varejo,2017-08-22
+CLT-0656,Rafaela Barbosa Souza,87620990693,1987-04-19,rafaela.souza55@hotmail.com,,Belo Horizonte,MG,2974.31,varejo,2016-08-27
+CLT-0168,Lucas Silva,53961367499,1982-12-19,lucas.silvagmail.com,19975576834,Rio De Janeiro,RJ,5302.81,varejo,2024-01-27
+CLT-0517,César Cardoso,25511643690,1950-08-22,cesar.cardoso38@yahoo.com.br,41987258965,Curitiba,PR,,varejo,2024-06-17
+CLT-0040,Carla Araújo,05486874034,1961-12-20,carla.araujo81@hotmail.com,19964385476,Goiânia,GO,17314.28,varejo,2023-12-21
+CLT-0319,Yasmin Ferreira,36077633691,1979-05-19,yasmin.ferreira99@outlook.com,47994622993,Brasília,DF,24924.4,varejo,2025-12-20
+CLT-0312,Vera Rodrigues Cardoso,05137171731,1970-06-27,vera.cardoso17@bol.com.br,81959141157,Florianópolis,SC,50467.22,varejo,2017-02-07
+CLT-0099,Tatiane Rocha Araújo,84608106200,1999-08-31,tatiane.araujo70@outlook.com,31956955105,Manaus,AM,43312.25,premium,2021-08-14
+CLT-0574,Carla Dias,58055811574,1992-10-04,carla.dias69@bol.com.br,71969925077,Rio De Janeiro,RJ,2063.65,premium,2023-08-12
+CLT-0044,Igor Monteiro,42498182992,1961-07-30,igor.monteiro91@hotmail.com,47965311674,Vitória,ES,,varejo,2020-12-08
+CLT-0393,Renato Monteiro,34438998278,1969-08-21,RENATO.MONTEIRO@HOTMAIL.COM,61978766591,Curitiba,PR,3196.41,varejo,2017-07-06
+CLT-0632,Igor Carvalho Ferreira,69764878496,1964-07-09,igor.ferreira41@outlook.com,47957187022,São Paulo,SP,,premium,2018-05-02
+CLT-0340,Yasmin Santos,70713984822,1968-11-17,yasmin.santos26@gmail.com,21920677716,Florianópolis,SC,,premium,2022-03-20
+CLT-0652,Priscila Rocha,73664853207,1999-04-02,priscila.rocha26@outlook.com,11993215763,Rio De Janeiro,RJ,57073.16,premium,2024-02-29
+CLT-0467,Paulo Silva Nascimento,75988759212,2007-09-13,paulo.nascimento20@gmail.com,71961063744,Manaus,AM,1494.45,varejo,2020-05-22
+CLT-0245,Samuel  Oliveira,21568182096,2071-07-25,samuel.oliveira40@gmail.com,11957533641,Curitiba,PR,19504.87,premium,2017-03-02
+CLT-0292,Wesley Carvalho Moreira,48831921342,1998-03-30,wesley.moreira25@outlook.com,85972746409,Curitiba,PR,13113.99,premium,2021-03-21
+CLT-0577,Samuel Cardoso,9707745447,1998-03-10,SAMUEL.CARDOSO@HOTMAIL.COM,19932544222,Recife,PE,5314.75,varejo,2021-06-27
+CLT-0332,Yasmin Souza,08780572151,1998-11-01,yasmin.souza29@yahoo.com.br,51914519041,Campinas,SP,37514.84,varejo,2017-12-28
+CLT-0174,Igor Ribeiro,59416516231,2000-03-23,igor.ribeiro85@bol.com.br,21995519605,Vitória,ES,1687.17,varejo,2020-05-04
+CLT-0455,Tatiane Silva,48268999626,1970-03-03,tatiane.silva99@bol.com.br,85948359846,Porto Alegre,RS,5852.57,varejo,2017-08-27
+CLT-0572,Wesley Ribeiro,53137956100,1990-03-30,wesley.ribeiro84@outlook.com,19937782200,Goiânia,GO,57575.06,varejo,2016-05-23
+CLT-0738,Marcos  Ribeiro,51325179044,1977-04-03,marcos.ribeiro36@gmail.com,71910225503,Vitória,ES,1735.61,varejo,2023-09-01
+CLT-0252,Kevin Ribeiro,60002589552,1981-06-15,kevin.ribeiro65@outlook.com,41974124156,Vitória,ES,56106.92,premium,2016-02-27
+CLT-0139,Carla Freitas Almeida,82307681040,1997-02-09,carla.almeida25@outlook.com,21964608649,Vitória,ES,6795.98,premium,2022-03-01
+CLT-0659,César Oliveira,91573767105,1984-12-21,cesar.oliveira11@gmail.com,81989841016,Belém,PA,2908.54,varejo,2016-10-25
+CLT-0813,Érico  Monteiro,95165712118,1994-02-07,erico.monteiro9@hotmail.com,21998802341,Goiânia,GO,7050.47,private,2017-12-15
+CLT-0113,Samuel Ferreira,9476973577,1981-03-05,samuel.ferreira14@bol.com.br,51921067269,Brasília,DF,19364.19,premium,2020-02-27
+CLT-0609,Isabela Rodrigues Santos,34843391332,1968-06-18,isabela.santos23@gmail.com,21945173593,Vitória,ES,2119.36,premium,2022-11-07
+CLT-0568,Priscila Carvalho Araújo,54662323606,1972-12-14,priscila.araujo90@outlook.com,47996667680,Salvador,BA,24754.26,private,2023-05-13
+CLT-0564,César Cardoso,17816780664,2005-05-07,cesar.cardoso30@bol.com.br,61996451848,Recife,PE,3307.42,premium,2020-08-31
+CLT-0635,Isabela Costa Silva,67960828967,1967-12-26,isabela.silva65@outlook.com,62943887245,Florianópolis,SC,7176.98,varejo,2020-09-05
+CLT-0005,Renato Ferreira Teixeira,97376311656,2070-02-27,renato.teixeira5@outlook.com,11926121993,Brasília,DF,4571.02,premium,2017-06-14
+CLT-0464,Tatiane Santos,10064934039,1989-04-20,tatiane.santos71@gmail.com,31915144514,Belém,PA,3347.65,private,2021-05-17
+CLT-0543,Sofia Pereira Martins,63271353867,1991-08-03,sofia.martins58@hotmail.com,47930544569,Rio De Janeiro,RJ,37947.8,varejo,2026-04-21
+CLT-0765,Mariana Costa Pereira,24760960647,1964-12-09,mariana.pereira22@yahoo.com.br,61938986927,Salvador,BA,30347.45,varejo,2025-06-12
+CLT-0644,Nicolas Oliveira,24000208601,1952-01-22,nicolas.oliveira67@hotmail.com,11962362409,Goiânia,GO,5924.27,private,2022-07-31
+CLT-0304,Vinícius Ribeiro Barbosa,9736424809,1984-04-06,vinicius.barbosa56@gmail.com,51910827671,Belo Horizonte,MG,6069.03,premium,2017-11-29
+CLT-0664,Carla Pereira,11761421524,1975-09-14,carla.pereira9@outlook.com,71997147905,Rio De Janeiro,RJ,5259.42,premium,2020-11-15
+CLT-0774,Isabela Campos,46389012484,2004-10-04,,41979126725,Curitiba,PR,2022.25,private,2016-07-26
+CLT-0662,Vera Silva,71634850895,1984-02-16,vera.silva6@gmail.com,11996687083,Manaus,AM,2077.89,private,2016-10-21
+CLT-0636,Renato Araújo,01154617580,1952-02-27,renato.araujo80@outlook.com,85993481585,Porto Alegre,RS,2979.92,premium,2016-05-16
+CLT-0749,Gustavo Barbosa,93957955192,1966-01-08,gustavo.barbosa23@bol.com.br,19923982204,Fortaleza,CE,58055.52,premium,2023-10-13
+CLT-0150,Gustavo Pereira,72006425690,2004-02-10,GUSTAVO.PEREIRA@HOTMAIL.COM,81988338144,Fortaleza,CE,8418.33,premium,2016-07-28
+CLT-0771,Carla Rocha Araújo,08518466898,1995-02-26,carla.araujo27@hotmail.com,47946433718,Curitiba,PR,1868.56,varejo,2024-03-29
+CLT-0230,Vera Ribeiro,51113129014,1972-05-07,vera.ribeiro55@bol.com.br,,Manaus,AM,3371.69,private,2026-03-02
+CLT-0185,Nicolas Lima,79334960501,1952-05-28,nicolas.lima39@yahoo.com.br,71991215764,São Paulo,SP,56096.61,private,2026-07-07
+CLT-0474,Olívia Almeida,03115876054,1973-08-27,olivia.almeida59@hotmail.com,62973965400,Manaus,AM,6500.2,varejo,2024-01-02
+CLT-0604,Isabela Costa Rocha,01779152446,1974-06-12,isabela.rochagmail.com,47936904461,Salvador,BA,42149.07,varejo,2016-05-28
+CLT-0234,Natália Pereira Ferreira,23126043260,1988-06-25,natalia.ferreira55@hotmail.com,11972317673,Porto Alegre,RS,7022.23,varejo,2020-10-03
+CLT-0043,Priscila Gomes Gomes,78291146786,1978-03-09,priscila.gomes66@hotmail.com,21930536194,Manaus,AM,1567.0,varejo,2022-09-23
+CLT-0580,Tatiane Rocha,81896558344,1994-03-25,tatiane.rocha96@bol.com.br,71935703750,Vitória,ES,3417.82,varejo,2018-08-05
+CLT-0058,Marcos Campos,00623120387,,marcos.campos63@hotmail.com,19989168993,Goiânia,GO,3317.18,premium,2024-03-23
+CLT-0190,Vinícius Oliveira Santos,89434681054,1980-12-22,vinicius.santos70@outlook.com,11930438352,Campinas,SP,5802.52,varejo,2025-01-03
+CLT-0599,Gabriela Freitas Pereira,79938444045,1951-03-11,gabriela.pereira81@gmail.com,21922506101,Curitiba,PR,13279.74,varejo,2016-02-26
+CLT-0368,Natália Ferreira,24358853798,2003-01-05,natalia.ferreira43@bol.com.br,51950474370,Porto Alegre,RS,4753.35,premium,2022-07-26
+CLT-0032,Bruno Oliveira Campos,67976438156,2000-10-22,bruno.campos42@bol.com.br,47989729633,Salvador,BA,2611.69,premium,2023-12-11
+CLT-0248,Kevin Carvalho,14708272359,1981-04-21,kevin.carvalho51@yahoo.com.br,71920226922,Vitória,ES,59857.53,varejo,2019-10-15
+CLT-0716,Fátima Teixeira,37006448854,1952-06-21,fatima.teixeira17@hotmail.com,61950202747,Recife,PE,12701.45,varejo,2015-03-22
+CLT-0090,Rafaela Campos Cardoso,71709991738,1976-05-10,rafaela.cardosogmail.com,85958887768,Belo Horizonte,MG,11685.02,varejo,2018-01-30
+CLT-0357,Sofia Campos,53765769277,1967-12-16,sofia.campos7@hotmail.com,19950712272,Manaus,AM,11027.99,varejo,2015-09-13
+CLT-0306,João Moreira,16331942268,1952-08-26,joao.moreira37@bol.com.br,71955696233,Salvador,BA,41503.71,premium,2022-02-16
+CLT-0492,Mariana Rodrigues,02453012398,1969-09-09,mariana.rodrigues47@gmail.com,31948501475,Belém,PA,17310.87,premium,2017-12-15
+CLT-0510,César Santos Monteiro,78417159497,2005-03-03,CESAR.MONTEIRO@HOTMAIL.COM,47943281600,Brasília,DF,4882.65,varejo,2015-06-09
+CLT-0562,Bruno Campos,86706632016,1985-11-13,bruno.campos74@hotmail.com,19912428775,Vitória,ES,30494.47,premium,2018-12-23
+CLT-0768,Larissa Carvalho Nascimento,46105110900,1993-04-08,larissa.nascimento29@yahoo.com.br,21991326932,Brasília,DF,43884.1,premium,2023-08-05
+CLT-0466,Thiago Dias,54262417842,1977-07-09,thiago.dias21@outlook.com,19934484585,Curitiba,PR,2021.8,varejo,2017-02-19
+CLT-0643,Ana Silva,35719214967,1987-06-08,ana.silva60@outlook.com,,Recife,PE,19022.17,varejo,2023-09-09
+CLT-0367,Otávio Gomes,54787698999,2003-09-27,otavio.gomes19@gmail.com,62990226610,Florianópolis,SC,13574.09,varejo,2016-05-30
+CLT-0396,Mariana Pereira,35462127602,1974-09-11,mariana.pereira26@hotmail.com,19978872778,Rio De Janeiro,RJ,1949.0,varejo,2016-08-22
+CLT-0063,Yasmin Moreira,39828073741,1976-12-14,yasmin.moreira89@yahoo.com.br,71991803280,Vitória,ES,31212.01,varejo,2018-06-16
+CLT-0128,Renato Almeida,55904259792,1993-02-22,renato.almeida10@outlook.com,41942717124,Manaus,AM,23583.79,varejo,2016-03-12
+CLT-0419,Bruno Rocha Araújo,28679632594,1983-01-28,bruno.araujo5@gmail.com,31997275411,Goiânia,GO,18797.2,premium,2019-12-26
+CLT-0589,Nicolas Carvalho,47998460586,1961-07-21,nicolas.carvalho9@yahoo.com.br,47973374158,Rio De Janeiro,RJ,8924.42,varejo,2015-01-31
+CLT-0363,Gabriela Carvalho,82749680491,2006-08-21,gabriela.carvalho91@yahoo.com.br,81958063666,Brasília,DF,1776.42,private,2024-07-27
+CLT-0028,Juliana Carvalho,90053293183,1969-06-29,juliana.carvalho46@gmail.com,41963833417,Porto Alegre,RS,53921.33,varejo,2021-03-21
+CLT-0138,Larissa Santos,51240568299,1992-12-25,larissa.santos53@gmail.com,51961521518,Curitiba,PR,3137.23,varejo,2020-04-30
+CLT-0529,Felipe  Cardoso,18151985458,1998-09-29,felipe.cardoso76@bol.com.br,51934581297,Florianópolis,SC,4486.03,private,2015-09-04
+CLT-0344,João Almeida,96288743127,1968-03-19,joao.almeida44@hotmail.com,71987467215,Salvador,BA,3956.75,varejo,2023-02-16
+CLT-0276,Bruno Lima,26804085095,2060-01-04,bruno.limagmail.com,47945471448,Manaus,AM,35303.53,varejo,2024-09-25
+CLT-0478,Samuel Santos Nascimento,72214257316,1966-11-23,samuel.nascimento57@bol.com.br,47930224565,Recife,PE,1438.34,varejo,2016-12-12
+CLT-0669,Gabriela Carvalho,36018639945,1980-07-09,gabriela.carvalho9@outlook.com,62951236215,Belo Horizonte,MG,3130.56,premium,2019-11-18
+CLT-0031,Renato Cardoso,15851493689,2002-08-13,renato.cardoso93@gmail.com,11953811474,Salvador,BA,6201.85,varejo,2021-06-12
+CLT-0506,Priscila Teixeira,30275000305,1999-11-28,priscila.teixeira71@hotmail.com,71926686830,Rio De Janeiro,RJ,,varejo,2023-09-09
+CLT-0627,Karina  Souza,69370632503,1989-09-16,karina.souzagmail.com,31991931739,Recife,PE,7674.25,varejo,2023-01-14
+CLT-0777,Priscila Monteiro,71232036686,1965-03-10,,81988739931,Campinas,SP,4591.43,premium,2022-07-31
+CLT-0531,Débora Nascimento,81612559046,1970-05-27,debora.nascimento2@outlook.com,81938324589,Salvador,BA,6288.9,varejo,2015-12-07
+CLT-0760,Thiago Pereira Costa,26532735514,1994-02-18,thiago.costa25@yahoo.com.br,47918784086,São Paulo,SP,2579.61,premium,2021-01-03
+CLT-0380,Paulo Moreira,20072024559,1975-09-13,PAULO.MOREIRA@HOTMAIL.COM,51964092637,Recife,PE,1481.08,private,2015-11-20
+CLT-0170,Lucas Cardoso,80647969545,1952-12-12,lucas.cardoso50@yahoo.com.br,31970036715,Recife,PE,42151.36,varejo,2022-08-27
+CLT-0154,Lucas Moreira Dias,88373403127,1996-05-12,lucas.dias39@outlook.com,11918856966,Curitiba,PR,2221.33,premium,2022-07-01
+CLT-0104,Érico Silva Cardoso,2223943129,1998-12-17,erico.cardoso71@gmail.com,85985572198,Brasilia,DF,33754.07,private,2017-03-15
+CLT-0250,Yasmin Souza,29635339055,1994-10-22,yasmin.souza17@yahoo.com.br,85930439177,Belém,PA,6102.7,varejo,2024-03-15
+CLT-0308,Natália Almeida,32781952371,1999-12-07,natalia.almeida26@outlook.com,,Belém,PA,43104.09,varejo,2016-07-30
+CLT-0048,Larissa Rodrigues,13075626368,2003-07-21,larissa.rodrigues22@bol.com.br,62920203262,Campinas,SP,6288.81,varejo,2025-09-23
+CLT-0009,Renato Dias,0533158692,1989-08-22,renato.dias70@gmail.com,31977551406,Goiânia,GO,9777.13,varejo,2024-03-26
+CLT-0242,Paulo Barbosa,05872105524,1962-05-27,paulo.barbosa75@yahoo.com.br,85978984973,Recife,PE,2459.28,varejo,2018-02-02
+CLT-0693,Érico Ferreira Gomes,08488686562,1991-03-27,erico.gomes53@yahoo.com.br,19997624040,Manaus,AM,3753.33,premium,2018-11-09
+CLT-0744,Henrique Barbosa Costa,55703934271,1978-08-29,henrique.costa48@outlook.com,71934726932,Goiânia,GO,41404.59,varejo,2016-03-24
+CLT-0689,Diego Freitas,75626996208,1951-07-20,diego.freitas95@gmail.com,47924141063,Recife,PE,4136.28,premium,2018-02-13
+CLT-0088,Karina Rodrigues,07229034944,1980-11-19,karina.rodrigues28@hotmail.com,61985205128,Fortaleza,CE,2724.24,premium,2023-11-28
+CLT-0616,João Monteiro,54842035316,1953-06-20,joao.monteiro5@gmail.com,19925758957,São Paulo,SP,6210.0,varejo,2017-03-27
+CLT-0183,Carla Monteiro,43864908108,1958-05-04,carla.monteiro81@bol.com.br,21986125151,Campinas,SP,8950.2,varejo,2026-04-17
+CLT-0324,César Freitas,18268323035,1958-08-29,cesar.freitas30@yahoo.com.br,47996929602,Florianópolis,SC,16552.34,varejo,2020-03-02
+CLT-0173,Otávio Pereira,23246651364,1951-09-02,otavio.pereira69@bol.com.br,51948687649,Fortaleza,CE,3176.1,varejo,2015-08-15
+CLT-0070,Débora Oliveira,70127706324,2006-12-15,debora.oliveira37@outlook.com,51925296905,Vitória,ES,2504.08,varejo,2018-09-17
+CLT-0277,Renato Barbosa,41384596094,1959-10-19,renato.barbosa93@bol.com.br,19912023036,Florianópolis,SC,4670.45,varejo,2020-06-12
+CLT-0428,Marcos Dias Martins,04879788897,1997-12-04,marcos.martins4@gmail.com,62970989426,Salvador,BA,1596.38,varejo,2023-05-11
+CLT-0083,César Pereira,01533688444,1956-08-28,cesar.pereira44@bol.com.br,47990433516,Salvador,BA,,premium,2021-09-08
+CLT-0447,Ana Dias,16011241158,1954-10-26,ana.dias98@yahoo.com.br,85973611982,Campinas,SP,38957.94,varejo,2015-03-05
+CLT-0065,Felipe Souza,51238282586,1987-04-27,felipe.souza45@yahoo.com.br,71940224053,São Paulo,SP,1514.77,premium,2015-08-28
+CLT-0364,Fátima  Freitas Campos,99077560858,1967-11-12,fatima.campos44@bol.com.br,51981487918,Belo Horizonte,MG,3160.18,varejo,2023-01-08
+CLT-0193,Carla Ribeiro Lima,19966365807,1960-12-22,carla.lima93@bol.com.br,31914066060,Vitória,ES,50467.15,varejo,2016-11-28
+CLT-0672,Vera Gomes,39891370542,1950-08-28,vera.gomes85@gmail.com,,Curitiba,PR,11287.57,varejo,2016-09-15
+CLT-0286,Henrique Freitas Freitas,79630448360,1998-02-10,HENRIQUE.FREITAS@HOTMAIL.COM,19962037737,Goiânia,GO,4935.08,premium,2023-10-12
+CLT-0776,Eduarda Almeida,56541802882,1961-01-09,eduarda.almeida7@yahoo.com.br,31995739852,Rio De Janeiro,RJ,18584.05,varejo,2022-02-02
+CLT-0723,Olívia Rodrigues Cardoso,24266225492,1964-01-22,olivia.cardoso7@gmail.com,47947831869,Brasília,DF,8113.81,varejo,2021-07-01
+CLT-0177,Mariana Nascimento,29543165266,1985-11-12,mariana.nascimento84@hotmail.com,,Florianópolis,SC,32775.97,premium,2020-02-17
+CLT-0694,Nicolas Santos Ribeiro,37449597521,1997-04-10,nicolas.ribeiro55@yahoo.com.br,21988246281,Belém,PA,44432.47,varejo,2022-05-25
+CLT-0675,Renato Nascimento,91765047188,1964-08-19,renato.nascimento62@gmail.com,47965745488,São Paulo,SP,54944.98,varejo,2025-03-19
+CLT-0163,Lucas Cardoso,24471462730,1987-10-03,lucas.cardoso63@gmail.com,21969278872,Recife,PE,39764.02,varejo,2025-04-09
+CLT-0520,Fátima Rodrigues,33647704130,1959-06-25,fatima.rodrigues65@bol.com.br,21967194162,Recife,PE,10466.56,private,2024-05-26
+CLT-0279,Gabriela Oliveira Monteiro,57490250429,1998-06-27,gabriela.monteiro88@yahoo.com.br,61993689326,Vitória,ES,11397.01,varejo,2019-10-27
+CLT-0484,Gustavo Carvalho,07598897865,2005-08-26,GUSTAVO.CARVALHO22@YAHOO.COM.BR,41960584326,Curitiba,PR,5677.43,varejo,2023-07-29
+CLT-0152,César Santos,90320204179,1953-04-28,cesar.santos87@bol.com.br,21928709145,Vitória,ES,6107.06,varejo,2016-05-31
+CLT-0356,Olívia Teixeira,23945354614,1968-09-26,olivia.teixeira51@hotmail.com,19993857646,Sao Paulo,SP,15532.16,varejo,2023-10-09
+CLT-0585,César Rodrigues,43322622777,1957-07-18,cesar.rodrigues89@bol.com.br,21977859294,Fortaleza,CE,,premium,2024-05-01
+CLT-0343,Mariana Almeida,32657327599,1954-07-26,mariana.almeida4@hotmail.com,11925902070,Fortaleza,CE,,premium,2022-08-06
+CLT-0691,Rafaela  Carvalho,01655623887,1992-10-20,rafaela.carvalho33@gmail.com,81972406694,Recife,PE,33219.28,private,2020-04-30
+CLT-0425,Vera Costa Nascimento,76817225775,1961-12-30,,85953528927,Belo Horizonte,MG,26406.03,varejo,2015-09-25
+CLT-0345,Marcos Rocha,15970996254,1951-10-13,marcos.rocha39@yahoo.com.br,85913849021,Campinas,SP,3999.37,private,2020-10-05
+CLT-0539,Tatiane Almeida Freitas,70675169139,2051-04-28,tatiane.freitas51@bol.com.br,61933272465,Fortaleza,CE,15229.58,premium,2024-02-13
+CLT-0377,Juliana Barbosa,65742231964,1952-02-03,juliana.barbosa75@gmail.com,51911983178,Brasilia,DF,3243.77,private,2024-05-13
+CLT-0205,Natália Barbosa,03337363466,2065-08-01,natalia.barbosa48@bol.com.br,61951702388,Rio De Janeiro,RJ,30733.42,premium,2024-12-20
+CLT-0753,Eduarda  Silva,62809241150,1972-03-09,eduarda.silva38@outlook.com,47976837810,Sao Paulo,SP,23799.35,varejo,2019-05-18
+CLT-0677,Sofia Campos,5669375402,1973-05-24,sofia.campos56@bol.com.br,71921818727,Recife,PE,19716.86,premium,2018-06-10
+CLT-0289,Felipe Ferreira Ribeiro,63757914521,2001-10-09,felipe.ribeiro3@yahoo.com.br,81950952374,Fortaleza,CE,48583.15,varejo,2025-08-15
+CLT-0358,Vinícius Carvalho,31072011379,1950-01-01,vinicius.carvalho55@outlook.com,11988592036,Vitória,ES,1467.42,varejo,2016-06-17
+CLT-0754,Karina Costa Rocha,53950111525,1983-06-02,karina.rocha59@yahoo.com.br,31985858296,Vitória,ES,19054.81,varejo,2018-12-22
+CLT-0161,João Silva,02814069375,1978-09-23,joao.silva97@bol.com.br,19941979625,Fortaleza,CE,16742.53,premium,2021-03-26
+CLT-0460,Sofia Gomes,71619827348,1995-03-26,sofia.gomes60@yahoo.com.br,62921581581,Porto Alegre,RS,6078.88,varejo,2022-11-21
+CLT-0006,Lucas Rodrigues,36026064746,1987-07-11,lucas.rodrigues13@gmail.com,85989733536,Curitiba,PR,5932.65,varejo,2016-04-24
+CLT-0023,Vinícius Teixeira,60576627028,1975-05-18,vinicius.teixeira98@bol.com.br,21982132633,Florianópolis,SC,7697.84,varejo,2018-03-26
+CLT-0200,Gabriela Silva,9717911006,1955-08-22,gabriela.silva14@yahoo.com.br,31920158240,Curitiba,PR,5033.61,private,2024-07-09
+CLT-0366,Fátima Cardoso,34606056035,1965-06-20,fatima.cardoso98@gmail.com,41930868853,Fortaleza,CE,26589.31,premium,2024-02-13
+CLT-0073,Rafaela Almeida Santos,83285691463,1956-07-19,rafaela.santos99@yahoo.com.br,71929008428,Goiânia,GO,5310.25,varejo,2018-09-12
+CLT-0148,Fátima Rocha,73938525800,1990-07-04,fatima.rocha56@bol.com.br,21996052702,Vitória,ES,3319.69,varejo,2021-09-05
+CLT-0476,Ana Carvalho,32614543079,1971-06-28,ANA.CARVALHO@HOTMAIL.COM,,Vitória,ES,17763.65,premium,2015-05-29
+CLT-0674,Mariana Rodrigues Ribeiro,08654243826,1983-12-18,mariana.ribeiro31@outlook.com,85964026628,Vitória,ES,49503.11,varejo,2022-08-17
+CLT-0695,Priscila Dias,64534965515,1974-08-19,priscila.dias50@hotmail.com,21976078218,Belo Horizonte,MG,2242.79,premium,2015-07-03
+CLT-0761,Thiago Ferreira,59476121893,1952-12-29,thiago.ferreira20@gmail.com,19934168825,Rio De Janeiro,RJ,11017.72,varejo,2015-04-27
+CLT-0685,Natália Lima,5183025853,1970-09-04,natalia.lima53@yahoo.com.br,61997572286,Belém,PA,7401.79,varejo,2023-03-07
+CLT-0153,Henrique Rocha,02196207100,1979-02-02,henrique.rocha43@gmail.com,19956487819,Recife,PE,4135.57,varejo,2025-09-04
+CLT-0582,Paulo Teixeira,71918986646,1968-10-07,paulo.teixeira47@hotmail.com,71930164851,Belo Horizonte,MG,59500.56,varejo,2026-06-02
+CLT-0263,Thiago Silva,84745705458,1992-05-07,thiago.silva30@bol.com.br,47989352847,Florianópolis,SC,17303.08,varejo,2015-06-19
+CLT-0068,Natália Souza,74517133959,1999-04-27,natalia.souza98@yahoo.com.br,31943854390,Campinas,SP,7953.99,varejo,2021-04-21
+CLT-0295,Diego Teixeira,21610705184,2006-04-02,diego.teixeira61@bol.com.br,47912736450,Manaus,AM,3671.87,premium,2022-05-02
+CLT-0647,Isabela Rocha,28836368850,1977-09-02,,,Belo Horizonte,MG,2902.64,varejo,2018-07-25
+CLT-0147,Paulo Lima Pereira,50410276747,1990-01-26,paulo.pereira20@yahoo.com.br,85948287222,Belém,PA,5358.27,varejo,2020-11-21
+CLT-0201,Helena Ferreira Moreira,09193928456,1976-06-16,helena.moreira80@bol.com.br,31949833255,Goiânia,GO,16109.31,varejo,2021-12-28
+CLT-0351,Yasmin Dias,00000000000,2056-02-01,yasmin.dias2@outlook.com,62948246120,São Paulo,SP,2689.32,varejo,2025-05-09
+CLT-0051,Vera Souza Martins,54932966851,1975-12-21,vera.martins65@yahoo.com.br,,Recife,PE,,premium,2020-04-13
+CLT-0778,Larissa Carvalho Cardoso,57356232770,1952-10-08,,61996956840,Belo Horizonte,MG,17886.55,premium,2016-05-13
+CLT-0035,Felipe Moreira,51820377889,1956-11-19,,51973477697,São Paulo,SP,6072.46,private,2016-04-03
+CLT-0056,Olívia Gomes,30469901398,1971-08-15,olivia.gomes68@hotmail.com,61959671251,Belo Horizonte,MG,23162.82,premium,2017-08-19
+CLT-0064,Larissa Teixeira,96561014388,2003-08-24,larissa.teixeira47@bol.com.br,41983037129,Florianópolis,SC,9312.43,varejo,2026-03-23
+CLT-0807,Vinícius Gomes,90937164581,1987-01-31,vinicius.gomes61@bol.com.br,81950455454,Curitiba,PR,23654.63,premium,2021-09-24
+CLT-0797,Eduarda Gomes,88523774877,1960-09-12,eduarda.gomes65@hotmail.com,85929823408,Campinas,SP,12358.89,premium,2017-02-15
+CLT-0269,Tatiane Carvalho Souza,58835868122,1991-08-17,TATIANE.SOUZA85@BOL.COM.BR,61985283294,Porto Alegre,RS,25572.14,varejo,2021-10-17
+CLT-0403,Fátima Gomes,2790504043,1992-02-25,fatima.gomes3@hotmail.com,61941839621,Belém,PA,5157.67,premium,2017-09-27
+CLT-0335,Lucas Carvalho,29821739295,2001-06-30,,,Belém,PA,19496.38,private,2016-06-20
+CLT-0568,Priscila Carvalho Araújo,54662323606,1972-12-14,priscila.araujo90@outlook.com,47996667680,Salvador,BA,24754.26,private,2023-05-13
+CLT-0069,Sofia Rodrigues,36729466711,1975-12-16,sofia.rodrigues53@gmail.com,,Belo Horizonte,MG,7401.71,varejo,2015-01-21
+CLT-0110,Larissa Freitas,43009818063,1970-03-08,LARISSA.FREITAS@HOTMAIL.COM,61927463535,Salvador,BA,10790.15,varejo,2020-10-11
+CLT-0735,Natália Moreira,40567712515,1963-10-09,natalia.moreira20@yahoo.com.br,51926759463,Porto Alegre,RS,6343.26,varejo,2026-05-15
+CLT-0072,Fátima Araújo,36403761379,2002-11-23,fatima.araujo77@bol.com.br,11969166185,Rio De Janeiro,RJ,8321.89,varejo,2024-09-06
+CLT-0120,Wesley Dias,08021442703,1996-07-05,wesley.dias24@hotmail.com,41966017885,Rio De Janeiro,RJ,30885.37,varejo,2023-05-01
+CLT-0704,Olívia Araújo,96714803007,1969-02-03,olivia.araujo40@hotmail.com,61981596976,Brasilia,DF,4893.9,varejo,2015-07-26
+CLT-0532,Lucas Almeida Costa,53446042276,1991-11-02,lucas.costagmail.com,51972721412,Belo Horizonte,MG,1364.6,varejo,2020-04-22
+CLT-0229,Gabriela Barbosa Ferreira,02562588967,1974-07-07,gabriela.ferreira40@bol.com.br,19994143547,Goiânia,GO,14347.52,varejo,2020-12-30
+CLT-0052,Érico Dias Ferreira,2795687833,2002-04-04,erico.ferreira91@outlook.com,81996536927,Porto Alegre,RS,6374.2,varejo,2016-05-20
+CLT-0053,Yasmin Monteiro,03910651801,1964-10-05,yasmin.monteiro8@yahoo.com.br,51976983948,Belém,PA,14766.93,premium,2024-05-06
+CLT-0383,Felipe Lima,55017833258,1987-04-21,felipe.lima64@outlook.com,85942228126,Florianópolis,SC,13014.44,premium,2015-11-19
+CLT-0149,Vera Rocha,44717465421,1955-07-02,vera.rochagmail.com,71964501984,São Paulo,SP,5191.81,premium,2018-12-28
+CLT-0441,Kevin  Teixeira Rocha,42170285162,1979-11-26,kevin.rocha54@outlook.com,47949837662,Porto Alegre,RS,48814.2,varejo,2015-01-03
+CLT-0596,Wesley Monteiro,70847795417,1990-05-26,wesley.monteiro8@gmail.com,,Curitiba,PR,19741.93,premium,2015-11-22
+CLT-0717,Otávio Silva,2039221317,1962-05-11,otavio.silva4@yahoo.com.br,,Salvador,BA,41201.36,varejo,2017-12-15
+CLT-0702,Gabriela Rodrigues Barbosa,59508374560,1989-02-11,gabriela.barbosa64@bol.com.br,47973612651,Manaus,AM,17846.18,varejo,2015-09-13
+CLT-0059,Natália Dias,33410166687,1951-07-16,natalia.dias25@bol.com.br,31923549189,Brasília,DF,11207.9,private,2022-06-06
+CLT-0298,Tatiane Almeida,55969051502,1981-02-14,tatiane.almeida27@outlook.com,,Campinas,SP,4673.81,varejo,2025-06-21
+CLT-0431,Vinícius Freitas,22946209355,1990-07-11,,21910204516,Brasília,DF,2528.45,varejo,2022-09-29
+CLT-0105,Isabela Rocha,36452577754,1982-01-15,isabela.rocha79@outlook.com,19923435597,Campinas,SP,52307.99,varejo,2019-05-29
+CLT-0037,Wesley Costa,38347359774,1980-03-19,wesley.costa93@yahoo.com.br,71936554271,Vitória,ES,16635.03,premium,2020-10-08
+CLT-0680,Samuel Araújo,75944348529,1977-01-17,samuel.araujo51@yahoo.com.br,62985315157,Curitiba,PR,56069.15,premium,2020-05-20
+CLT-0189,Kevin Monteiro,0290846684,1986-09-21,,51996473406,Belo Horizonte,MG,7746.39,varejo,2019-08-08
+CLT-0522,Renato Lima Costa,32611890034,1974-11-09,renato.costa23@outlook.com,62972504524,Goiânia,GO,,varejo,2025-01-23
+CLT-0624,Yasmin Araújo,45289860610,1999-07-28,yasmin.araujo36@hotmail.com,41948268411,São Paulo,SP,44109.71,varejo,2015-12-21
+CLT-0192,Isabela Lima,40821545447,1995-05-18,ISABELA.LIMA61@GMAIL.COM,,Recife,PE,58072.87,varejo,2021-11-05
+CLT-0402,Otávio  Teixeira,70646255402,1965-01-05,otavio.teixeira97@hotmail.com,19970466569,Recife,PE,14339.85,private,2019-04-20
+CLT-0008,Débora Oliveira Ferreira,82449353487,1998-03-27,debora.ferreira84@bol.com.br,11925127939,Campinas,SP,7176.97,varejo,2022-06-25
+CLT-0541,Renato Oliveira Oliveira,73855128177,1970-09-25,renato.oliveira64@yahoo.com.br,41970969155,Recife,PE,52810.52,premium,2020-10-27
+CLT-0066,Samuel Freitas Dias,91557924991,1984-11-19,samuel.dias24@outlook.com,41960032916,Belém,PA,11148.24,varejo,2026-06-16
+CLT-0260,Fátima Almeida Lima,79836314624,1969-01-23,fatima.lima98@outlook.com,21934138552,Rio De Janeiro,RJ,6448.8,varejo,2020-05-24
+CLT-0623,Tatiane Lima,78037891213,1973-07-25,,,Brasília,DF,1487.01,varejo,2024-01-11
+CLT-0770,Érico Oliveira,60855717490,1953-07-13,erico.oliveira57@yahoo.com.br,47974059457,Manaus,AM,51334.71,varejo,2015-10-13
+CLT-0581,Helena Souza Ribeiro,85015301731,1986-07-20,helena.ribeiro82@hotmail.com,61979341884,Campinas,SP,12873.26,premium,2016-05-21
+CLT-0112,Gustavo Moreira,83920530214,1984-06-24,gustavo.moreira64@yahoo.com.br,71976424281,Salvador,BA,7327.55,varejo,2016-07-16
+CLT-0567,Ana Campos Campos,28497603967,1996-10-28,ana.campos48@hotmail.com,51949697151,Belo Horizonte,MG,3583.55,varejo,2021-11-30
+CLT-0820,Fátima Costa,48882372544,2000-08-11,fatima.costa56@hotmail.com,61943196356,Goiânia,GO,13681.66,premium,2019-03-09
+CLT-0181,Tatiane Pereira Pereira,04165915201,1961-03-02,tatiane.pereira1@bol.com.br,81984395412,Rio De Janeiro,RJ,,premium,2025-02-28
+CLT-0487,Gustavo Araújo,9393449743,2004-11-17,gustavo.araujo38@hotmail.com,51912819615,Campinas,SP,1976.26,varejo,2018-04-11
+CLT-0713,Carla Teixeira,59476111079,1997-06-11,carla.teixeira45@yahoo.com.br,81969315750,São Paulo,SP,39345.95,varejo,2022-08-28
+CLT-0639,Karina Barbosa,30285327276,1975-04-30,karina.barbosa9@outlook.com,19946365178,Campinas,SP,4704.58,varejo,2016-05-16
+CLT-0108,Vera Dias,80920242869,1982-07-01,vera.dias62@hotmail.com,62956442404,Curitiba,PR,6412.67,varejo,2025-07-28
+CLT-0432,Samuel Almeida Ribeiro,06159273874,1958-09-20,samuel.ribeiro17@hotmail.com,11982592398,Manaus,AM,4667.11,varejo,2015-07-03
+CLT-0114,César Oliveira Cardoso,95211179080,1973-08-17,cesar.cardoso96@hotmail.com,61990665501,Recife,PE,4398.5,varejo,2026-06-19
+CLT-0244,Felipe Monteiro Barbosa,56341115950,1970-05-24,felipe.barbosa24@bol.com.br,21920704471,Vitoria,ES,39096.65,premium,2021-07-12
+CLT-0679,Marcos Carvalho Araújo,68963318123,1976-05-16,marcos.araujo19@gmail.com,71924548811,Campinas,SP,10587.58,varejo,2016-01-27
+CLT-0142,Sofia Costa,61539669583,2004-03-24,sofia.costagmail.com,62989722873,Belo Horizonte,MG,5574.39,varejo,2017-10-03
+CLT-0022,Isabela Gomes,27484677378,1999-10-04,isabela.gomes21@outlook.com,47993273236,Florianópolis,SC,2511.85,varejo,2024-04-22
+CLT-0288,Bruno Freitas,41118600892,1953-03-28,bruno.freitas30@hotmail.com,71941836114,Brasília,DF,35114.27,varejo,2015-11-07
+CLT-0156,Kevin Carvalho,7740633569,1959-12-20,kevin.carvalho79@hotmail.com,,Campinas,SP,36467.85,premium,2025-07-22
+CLT-0800,Larissa Teixeira,64525733090,1994-09-18,larissa.teixeira20@gmail.com,51916427243,Fortaleza,CE,7887.36,varejo,2026-07-20
+CLT-0709,César Rocha Souza,07421531936,2007-11-19,cesar.souzagmail.com,61938157578,Manaus,AM,6013.94,varejo,2017-07-15
+CLT-0127,Igor Ribeiro,06799813646,1981-03-19,igor.ribeiro82@yahoo.com.br,81918079980,São Paulo,SP,11831.8,varejo,2026-04-03
+CLT-0062,Tatiane Ribeiro,71543799371,1951-09-02,tatiane.ribeiro22@yahoo.com.br,71964437224,Florianópolis,SC,4710.14,varejo,2022-07-05
+CLT-0096,Karina Monteiro Lima,71775170166,1963-05-04,karina.lima36@gmail.com,21959909328,Curitiba,PR,2415.24,varejo,2025-03-26
+CLT-0514,Vera Carvalho,68112303885,2007-10-05,vera.carvalho34@outlook.com,21923425026,Porto Alegre,RS,28244.43,premium,2016-10-15
+CLT-0207,Gustavo Teixeira,15366377805,1986-03-25,gustavo.teixeira30@hotmail.com,51911589188,Porto Alegre,RS,43480.15,premium,2022-08-15
+CLT-0687,Karina Souza,14613315553,1977-12-20,karina.souza7@bol.com.br,61946611638,Curitiba,PR,32575.79,private,2021-08-28
+CLT-0274,Larissa Santos,31903689003,1999-07-27,LARISSA.SANTOS@HOTMAIL.COM,31981853958,Vitória,ES,18842.62,varejo,2020-06-23
+CLT-0499,Vinícius Gomes Freitas,64641962342,1973-08-07,vinicius.freitas65@yahoo.com.br,71933723933,Campinas,SP,10934.62,premium,2021-11-08
+CLT-0111,Nicolas Ribeiro,21386589026,1985-08-28,nicolas.ribeiro74@outlook.com,,Recife,PE,3003.23,premium,2016-08-06
+CLT-0273,Isabela Almeida,91872401078,1955-01-05,isabela.almeida10@bol.com.br,81959714731,Recife,PE,3289.51,private,2019-05-27
+CLT-0518,Felipe Barbosa Rodrigues,51038802730,1980-10-13,felipe.rodrigues80@yahoo.com.br,,Goiânia,GO,18699.72,varejo,2017-04-19
+CLT-0192,Isabela Lima,40821545447,1995-05-18,isabela.lima61@gmail.com,,Recife,PE,58072.87,varejo,2021-11-05
+CLT-0477,Otávio Araújo,87447017320,1994-06-21,OTAVIO.ARAUJO@HOTMAIL.COM,,Goiânia,GO,9877.02,premium,2017-12-17
+CLT-0732,Renato Almeida,16456059563,2004-04-07,renato.almeida49@bol.com.br,,Porto Alegre,RS,12470.89,premium,2019-09-13
+CLT-0818,João Martins,20535313184,1980-07-09,joao.martins67@bol.com.br,61947675721,Porto Alegre,RS,8750.23,private,2017-05-11
+CLT-0017,Débora  Rodrigues,43634957885,1969-11-01,debora.rodrigues11@hotmail.com,61967648434,Vitória,ES,47624.37,varejo,2017-09-15
+CLT-0600,Priscila Carvalho Souza,44568446794,1970-08-05,priscila.souza96@gmail.com,,Manaus,AM,2582.11,premium,2016-06-27
+CLT-0144,Renato Araújo Souza,56242201027,1983-02-15,renato.souza41@yahoo.com.br,31923873248,Belo Horizonte,MG,5458.36,varejo,2025-03-24
+CLT-0385,Diego Lima,70124244626,2003-07-11,diego.lima50@bol.com.br,,Vitória,ES,20568.45,varejo,2016-07-15
+CLT-0530,Yasmin Barbosa Teixeira,81822387940,2074-01-12,yasmin.teixeira56@yahoo.com.br,31915519697,Curitiba,PR,1626.19,premium,2026-02-22
+CLT-0708,Carla Gomes,49674199160,2063-03-20,carla.gomes74@hotmail.com,41913347339,Belo Horizonte,MG,16055.44,premium,2015-09-29
+CLT-0454,Yasmin Gomes,45967150066,1967-06-30,,71954012507,Florianópolis,SC,7975.63,varejo,2023-10-25
+CLT-0648,Mariana Carvalho,59812559777,2001-02-15,mariana.carvalho83@bol.com.br,47991267228,Recife,PE,19609.47,varejo,2019-03-20
+CLT-0327,Kevin Ribeiro,60144485645,1960-02-15,kevin.ribeiro14@gmail.com,81949779109,São Paulo,SP,34501.98,premium,2020-12-17
+CLT-0117,Débora Martins,25355449647,2075-07-15,debora.martins81@hotmail.com,62995358377,Campinas,SP,36872.66,premium,2015-09-07
+CLT-0162,Yasmin Moreira Moreira,76742662991,1957-03-11,yasmin.moreira92@yahoo.com.br,,Rio De Janeiro,RJ,34054.2,premium,2023-06-06
+CLT-0204,Nicolas Gomes,55963099384,2031-12-05,nicolas.gomes80@yahoo.com.br,11955883071,Belo Horizonte,MG,3794.2,varejo,2025-12-19
+CLT-0340,Yasmin Santos,70713984822,1968-11-17,yasmin.santos26@gmail.com,21920677716,Florianópolis,SC,,premium,2022-03-20
+CLT-0658,Rafaela Costa,34369531029,1972-06-02,rafaela.costagmail.com,19927566254,Florianópolis,SC,8291.39,varejo,2017-07-28
+CLT-0287,Carla Gomes,55810835832,1980-06-27,CARLA.GOMES@HOTMAIL.COM,62947575754,São Paulo,SP,3430.16,premium,2022-06-08
+CLT-0798,Larissa Teixeira Teixeira,68210037090,1999-05-26,larissa.teixeira56@outlook.com,81995221995,Florianópolis,SC,14591.77,varejo,2024-08-05
+CLT-0427,Érico Dias,43095449791,1979-03-02,erico.dias35@yahoo.com.br,47981891044,Brasília,DF,49746.4,varejo,2016-07-26
+CLT-0254,Samuel Oliveira,36170617136,1954-08-23,samuel.oliveira77@gmail.com,81936393945,Florianópolis,SC,23711.09,premium,2015-09-15
+CLT-0328,Vera Teixeira,05779806603,2000-04-20,vera.teixeira83@gmail.com,,Florianópolis,SC,34428.03,premium,2025-03-29
+CLT-0721,João Teixeira,16397149207,2070-09-05,joao.teixeira44@bol.com.br,,Manaus,AM,12124.05,private,2025-06-28
+CLT-0408,Érico Carvalho Dias,26999699648,2005-02-17,erico.dias91@gmail.com,62984742468,Curitiba,PR,20630.93,private,2023-03-19
+CLT-0654,Helena Costa,12794337953,1955-10-09,helena.costa1@outlook.com,21928293330,Goiânia,GO,10219.9,varejo,2015-08-28
+CLT-0316,Érico Carvalho,48840215573,1998-04-04,erico.carvalho53@hotmail.com,81969346456,São Paulo,SP,42473.46,varejo,2020-10-22
+CLT-0067,Lucas Lima,68876767721,1987-12-15,lucas.lima18@hotmail.com,41957851535,Campinas,SP,1992.08,varejo,2018-09-10
+CLT-0620,João Barbosa,68624087100,1990-11-18,joao.barbosa61@gmail.com,71977039871,Belo Horizonte,MG,18308.26,varejo,2017-04-01
+CLT-0164,Yasmin Carvalho Dias,28554451895,1973-04-14,yasmin.dias46@gmail.com,85956107111,Vitória,ES,5883.26,premium,2018-08-28
+CLT-0130,Fátima Monteiro,2055543840,2070-09-27,fatima.monteiro65@yahoo.com.br,11955904695,São Paulo,SP,8477.03,varejo,2018-01-29
+CLT-0323,Yasmin Ribeiro,97753967379,1961-10-25,yasmin.ribeiro81@gmail.com,,Fortaleza,CE,7907.89,varejo,2019-07-03
+CLT-0789,Priscila Freitas,58258545513,1980-04-16,priscila.freitas84@hotmail.com,,Curitiba,PR,53629.18,varejo,2018-09-14
+CLT-0123,Tatiane Cardoso,86209593518,2000-02-26,tatiane.cardoso77@bol.com.br,19991513525,São Paulo,SP,13392.61,varejo,2022-03-23
+CLT-0637,Fátima Monteiro,01685647177,1986-05-24,FATIMA.MONTEIRO@HOTMAIL.COM,47916093535,Porto Alegre,RS,2433.11,varejo,2017-04-21
+CLT-0179,Yasmin Dias Barbosa,64652809242,2057-10-09,yasmin.barbosa13@bol.com.br,81931612468,Belem,PA,1429.26,varejo,2018-07-03
+CLT-0041,Marcos Dias,79627570596,1966-05-10,marcos.diasgmail.com,11922297655,Belém,PA,2625.4,varejo,2018-03-08
+CLT-0660,Diego Silva,58676030409,1978-06-07,diego.silva72@yahoo.com.br,51976868524,Curitiba,PR,10556.56,premium,2016-07-17
+CLT-0334,Gustavo Almeida Ferreira,80056409951,1972-10-08,GUSTAVO.FERREIRA@HOTMAIL.COM,47991623978,Porto Alegre,RS,8730.81,varejo,2017-05-03
+CLT-0325,Karina Nascimento,67752401484,1958-12-26,karina.nascimento79@yahoo.com.br,47920941970,Brasília,DF,19508.68,varejo,2025-10-14
+CLT-0299,Sofia Dias,96902824983,2003-04-03,sofia.dias87@yahoo.com.br,31931286458,Florianópolis,SC,1960.38,varejo,2017-10-01
+CLT-0814,Lucas Martins Araújo,89109619680,2005-02-19,lucas.araujo8@yahoo.com.br,61936752459,Manaus,AM,17488.55,premium,2019-11-14
+CLT-0391,Thiago Souza Rocha,10615372215,1972-09-10,,19995015506,Rio De Janeiro,RJ,1458.84,varejo,2018-10-04
+CLT-0198,Kevin Araújo,04793036149,1961-12-03,kevin.araujo46@hotmail.com,41938752070,Vitória,ES,6260.49,private,2017-09-11
+CLT-0570,Otávio Rodrigues,76291430491,1954-05-20,otavio.rodrigues98@bol.com.br,41994639121,Curitiba,PR,1486.2,varejo,2025-07-17
+CLT-0405,Vera Monteiro Silva,52014911894,1987-03-27,vera.silva37@bol.com.br,41975049681,São Paulo,SP,6761.5,varejo,2018-02-15
+CLT-0266,Thiago Costa,5857567667,1978-07-12,thiago.costagmail.com,71924483303,Campinas,SP,35038.64,varejo,2020-06-10
+CLT-0401,Vera Moreira Cardoso,88044287738,1954-04-10,vera.cardoso68@hotmail.com,41996562051,Brasília,DF,57125.54,varejo,2016-06-20
+CLT-0136,Lucas Pereira Rocha,81472145868,1979-09-15,lucas.rocha59@bol.com.br,,São Paulo,SP,32912.87,premium,2021-06-10
+CLT-0439,Priscila Monteiro,88397857082,1952-05-01,priscila.monteiro70@yahoo.com.br,85917677861,Belém,PA,50313.31,private,2017-06-02
+CLT-0698,Débora Martins,39567844607,1957-02-09,debora.martins87@yahoo.com.br,11988726626,Salvador,BA,7436.38,varejo,2017-03-30
+CLT-0180,Samuel Campos,70320320742,1994-10-15,samuel.campos67@outlook.com,81916688233,Salvador,BA,4242.43,varejo,2025-11-18
+CLT-0379,João Cardoso Ferreira,71506662670,2003-01-31,joao.ferreira13@bol.com.br,51948618971,Manaus,AM,12798.21,varejo,2023-11-21
+CLT-0337,Felipe Gomes,6882850317,1966-11-15,,21943359114,Manaus,AM,1361.52,premium,2015-08-05
+CLT-0561,Gustavo Lima,19087886538,1952-06-05,gustavo.lima16@bol.com.br,11973448712,Campinas,SP,36412.5,private,2019-02-08
+CLT-0559,Yasmin Lima,47614378844,2006-02-22,yasmin.lima78@gmail.com,62971462349,Curitiba,PR,3137.5,varejo,2022-11-18
+CLT-0804,Kevin Moreira Moreira,10250666860,2007-01-11,kevin.moreira11@outlook.com,51990977841,Belo Horizonte,MG,34965.24,private,2024-11-08
+CLT-0819,Thiago Rodrigues,37798240211,1963-03-07,thiago.rodrigues83@gmail.com,41925194555,Manaus,AM,57049.52,varejo,2016-10-23
+CLT-0592,Priscila Moreira,79724528413,1954-05-09,priscila.moreiragmail.com,85912155895,São Paulo,SP,1892.05,premium,2019-04-08
+CLT-0449,Isabela Souza,23112327489,1977-10-16,isabela.souza35@gmail.com,81923908385,Porto Alegre,RS,11053.58,premium,2019-08-17
+CLT-0087,Juliana Almeida,30307053457,1966-11-11,juliana.almeidagmail.com,21915004963,Recife,PE,3041.28,varejo,2018-12-25
+CLT-0027,Fátima Nascimento,04711382675,2002-11-06,fatima.nascimento79@hotmail.com,85978663531,Fortaleza,CE,48043.09,varejo,2025-12-22
+CLT-0255,Otávio  Campos Rodrigues,24473158477,2005-01-31,otavio.rodrigues20@hotmail.com,41950973833,Salvador,BA,4016.55,varejo,2021-04-21
+CLT-0794,César Dias,75627528001,2001-05-03,cesar.dias33@outlook.com,62920958320,Manaus,AM,2648.72,private,2021-05-20
+CLT-0141,Débora Gomes,77332945625,2005-04-17,debora.gomes98@yahoo.com.br,81989871495,Campinas,SP,2549.14,varejo,2025-09-26
+CLT-0603,Nicolas Dias,26509962183,2000-06-17,nicolas.dias93@hotmail.com,21971857807,São Paulo,SP,4798.77,premium,2015-01-13
+CLT-0433,Gabriela Martins,67975649157,1997-08-23,,61970945670,Belo Horizonte,MG,2842.64,premium,2020-09-07
+CLT-0109,João Teixeira,62912799088,2003-11-27,joao.teixeira59@bol.com.br,19931359835,Belo Horizonte,MG,4534.16,varejo,2024-09-04
+CLT-0151,Sofia Cardoso,06346157173,1960-11-15,sofia.cardoso12@outlook.com,62949079015,São Paulo,SP,8965.48,premium,2021-11-25
+CLT-0786,Mariana Souza,36670417103,2064-02-27,mariana.souzagmail.com,21928869293,Goiânia,GO,4944.2,varejo,2015-10-20
+CLT-0246,Natália Monteiro,91297102481,1964-06-13,natalia.monteiro38@outlook.com,31958433645,Curitiba,PR,48510.5,varejo,2022-04-12
+CLT-0194,Otávio Almeida,5690705626,2001-02-27,otavio.almeida3@outlook.com,,Campinas,SP,55506.23,varejo,2021-05-26
+CLT-0257,César Almeida,65533077046,1950-12-24,cesar.almeida68@hotmail.com,47963557272,Salvador,BA,,varejo,2015-08-02
+CLT-0178,Gustavo Moreira,34476263934,1954-06-20,GUSTAVO.MOREIRA@HOTMAIL.COM,31976933391,Fortaleza,CE,38148.31,varejo,2020-04-13
+CLT-0103,Kevin Dias,80919015814,1952-02-18,kevin.dias74@hotmail.com,21956128170,Rio De Janeiro,RJ,13413.51,varejo,2015-09-10
+CLT-0243,Gabriela  Rocha Teixeira,8476570412,1952-05-13,gabriela.teixeira11@hotmail.com,31992453627,Manaus,AM,6061.32,varejo,2025-03-10
+CLT-0489,Vinícius Rodrigues,56589635957,1953-11-07,vinicius.rodrigues7@gmail.com,,Belo Horizonte,MG,1611.16,varejo,2023-02-01
+CLT-0553,Vinícius Freitas,02578464085,1950-01-09,vinicius.freitas27@hotmail.com,61996399690,Brasília,DF,2966.62,varejo,2018-08-11
+CLT-0459,Priscila Freitas,15261053709,1984-10-12,priscila.freitas90@gmail.com,81921618048,Belo Horizonte,MG,44416.74,premium,2015-07-02
+CLT-0666,Henrique Monteiro Almeida,49979905221,1961-05-07,henrique.almeida52@gmail.com,,Rio De Janeiro,RJ,16125.74,premium,2017-02-16
+CLT-0018,Nicolas Campos,84271094777,1967-09-03,NICOLAS.CAMPOS@HOTMAIL.COM,51988272869,Salvador,BA,4523.67,varejo,2016-08-29
+CLT-0033,Yasmin Souza Silva,96641605297,2068-12-13,yasmin.silva72@outlook.com,21981552734,São Paulo,SP,1458.57,premium,2016-06-10
+CLT-0692,Isabela Costa,99038035148,1987-05-21,isabela.costa49@gmail.com,,Recife,PE,46616.37,private,2021-11-28
+CLT-0282,Henrique Martins,72298120995,1976-04-27,,61981853895,Salvador,BA,36354.99,premium,2017-04-03
+CLT-0352,Isabela Martins,18779417634,1967-10-06,isabela.martins32@yahoo.com.br,11987615040,Brasília,DF,,premium,2025-10-28
+CLT-0048,Larissa Rodrigues,13075626368,2003-07-21,larissa.rodrigues22@bol.com.br,62920203262,Campinas,SP,6288.81,varejo,2025-09-23
+CLT-0275,Priscila Almeida Lima,10569741328,1960-12-24,priscila.lima39@outlook.com,41930117101,Belo Horizonte,MG,15843.73,varejo,2015-10-21
+CLT-0353,Yasmin Moreira,04432400615,1993-06-26,yasmin.moreira38@gmail.com,31983187259,Florianópolis,SC,31298.25,varejo,2022-01-17
+CLT-0283,Yasmin Barbosa,77324491342,1975-08-05,yasmin.barbosa27@yahoo.com.br,85937661448,Fortaleza,CE,,varejo,2015-02-24
+CLT-0378,Carla Rodrigues Campos,49885582984,1968-11-23,carla.campos87@yahoo.com.br,41947061364,Belém,PA,17740.28,premium,2026-05-31
+CLT-0209,Diego Araújo,67299493874,1990-10-16,DIEGO.ARAUJO@HOTMAIL.COM,81920487541,Curitiba,PR,5652.13,varejo,2022-05-18
+CLT-0175,Fátima Campos,34257540900,2002-04-06,fatima.campos53@outlook.com,41951447302,Florianópolis,SC,3198.38,varejo,2023-02-20
+CLT-0472,Priscila Rodrigues Oliveira,67063621986,1960-09-15,priscila.oliveira16@yahoo.com.br,47957015173,Belo Horizonte,MG,,private,2023-10-13
+CLT-0640,Igor Souza,38277771184,1976-11-24,,,Belo Horizonte,MG,3315.41,premium,2016-05-18
+CLT-0301,Bruno Ferreira,61562624467,2002-12-08,,71939413679,Brasília,DF,29202.94,varejo,2017-05-21
+CLT-0003,Igor Teixeira,78480184514,2002-06-12,,62953159201,Belo Horizonte,MG,1541.23,varejo,2017-05-21
+CLT-0812,Helena Cardoso,19612933213,2001-09-17,helena.cardoso83@outlook.com,31916895344,Manaus,AM,18208.28,varejo,2019-10-13
+CLT-0795,Henrique Ribeiro,1294576130,1978-01-31,henrique.ribeiro63@gmail.com,47959435617,Salvador,BA,2811.07,varejo,2021-06-20
+CLT-0550,Karina Teixeira,75965999201,1985-11-05,karina.teixeira83@hotmail.com,71942452232,Belo Horizonte,MG,1569.39,varejo,2023-03-05
+CLT-0810,Samuel Carvalho Ribeiro,86819004158,1969-05-01,samuel.ribeiro24@hotmail.com,61931469909,Porto Alegre,RS,29509.59,premium,2023-12-30
+CLT-0799,Carla Lima,29650744565,1964-09-25,carla.lima35@bol.com.br,71969055524,Manaus,AM,16342.93,varejo,2018-08-05
+CLT-0545,Lucas Lima Almeida,76917162042,1971-08-23,lucas.almeida91@hotmail.com,21957345394,Rio De Janeiro,RJ,1685.97,premium,2020-03-21
+CLT-0634,Débora Lima,23372094516,1975-09-27,debora.lima84@gmail.com,81911927478,Vitória,ES,2309.7,varejo,2018-02-25
+CLT-0239,Marcos Campos Pereira,09166010023,1991-03-20,marcos.pereira51@bol.com.br,,Fortaleza,CE,38200.97,varejo,2022-04-08
+CLT-0481,Larissa Almeida,25892225606,1986-11-02,larissa.almeida89@hotmail.com,61944587088,Florianópolis,SC,1611.6,premium,2020-07-06
+CLT-0375,Priscila Campos,19541966645,1999-05-16,priscila.campos92@yahoo.com.br,11945318135,Brasília,DF,40126.1,varejo,2025-02-02
+CLT-0348,Thiago Santos Carvalho,32694968436,2004-04-26,thiago.carvalho19@bol.com.br,41996921114,Curitiba,PR,4352.06,varejo,2020-08-23
+CLT-0696,Henrique Barbosa Almeida,27668098460,1981-06-27,henrique.almeida20@hotmail.com,85915505498,São Paulo,SP,4150.63,varejo,2021-09-23
+CLT-0258,Bruno Oliveira Lima,1591030021,1953-04-27,bruno.lima52@gmail.com,41937882442,Porto Alegre,RS,35733.1,varejo,2023-10-04
+CLT-0602,Fátima Lima Dias,50221816981,2052-02-25,fatima.dias70@outlook.com,21947345912,Campinas,SP,2730.66,varejo,2023-09-03
+CLT-0060,Nicolas Dias,61429396856,1970-12-08,nicolas.dias70@bol.com.br,62922849204,Vitória,ES,4307.1,varejo,2017-03-11
+CLT-0547,Samuel Barbosa,02599851939,1972-10-08,samuel.barbosa56@hotmail.com,31990813952,Recife,PE,42512.87,premium,2017-08-23
+CLT-0653,Paulo Campos,00734293907,1976-12-25,paulo.campos40@outlook.com,81933246156,Campinas,SP,16648.77,varejo,2022-09-30
+CLT-0240,Juliana Pereira,36625436172,2000-06-30,juliana.pereira3@gmail.com,51968542249,Rio De Janeiro,RJ,4835.32,varejo,2016-11-25
+CLT-0251,Lucas Carvalho,11096179817,1960-04-03,lucas.carvalho89@yahoo.com.br,19957497891,Vitória,ES,2695.04,private,2023-07-19
+CLT-0394,Thiago Almeida,68011923603,1974-05-25,thiago.almeida80@hotmail.com,62921892681,Manaus,AM,4961.22,varejo,2024-11-23
+CLT-0494,Thiago Dias Martins,11018780358,2063-12-16,thiago.martins95@hotmail.com,47918192211,Vitória,ES,3383.74,premium,2025-11-14
+CLT-0591,Eduarda Ribeiro,86083570170,1982-01-24,eduarda.ribeiro9@bol.com.br,11958875387,Vitória,ES,5625.39,varejo,2024-03-22
+CLT-0495,Wesley Moreira Rodrigues,22054221626,2003-09-03,wesley.rodrigues64@gmail.com,,São Paulo,SP,13906.76,varejo,2015-01-13
+CLT-0228,Isabela Campos,35989262566,1974-11-20,isabela.campos11@outlook.com,21954253041,Campinas,SP,9718.93,private,2024-02-15
+CLT-0350,Fátima Ribeiro,72453076248,1962-09-30,fatima.ribeiro47@gmail.com,47991778091,Belém,PA,7178.32,varejo,2025-06-12
+CLT-0415,Eduarda Silva,97363831828,1966-09-30,eduarda.silva14@hotmail.com,11965454750,Fortaleza,CE,13038.41,premium,2015-07-07
+CLT-0722,Priscila Ferreira Dias,43435497872,2061-09-09,priscila.dias61@yahoo.com.br,61988072807,Campinas,SP,51576.15,varejo,2021-11-23
+CLT-0331,Olívia Carvalho,96964546553,1972-05-01,,62932036270,Vitória,ES,7270.69,varejo,2020-07-15
+CLT-0575,Tatiane Silva,03966203858,1954-07-16,tatiane.silva70@outlook.com,51913448287,Fortaleza,CE,,varejo,2022-03-20
+CLT-0341,Fátima Silva,7379457727,1950-07-13,fatima.silva73@bol.com.br,,Belo Horizonte,MG,57488.44,varejo,2023-04-04
+CLT-0054,Felipe Rocha,68633752431,1983-09-14,felipe.rocha51@bol.com.br,47912564943,Belém,PA,18017.86,varejo,2015-10-03
+CLT-0801,César Dias Cardoso,27633422856,1985-10-11,cesar.cardosogmail.com,85947828624,Goiânia,GO,35977.62,premium,2019-11-30
+CLT-0668,Karina Souza,03729545858,1966-11-30,karina.souza10@yahoo.com.br,41999813026,Recife,PE,2650.62,varejo,2019-11-20
+CLT-0588,Gabriela Pereira Dias,12762239847,2002-12-22,gabriela.diasgmail.com,19936476587,Belo Horizonte,MG,15391.01,varejo,2026-04-21
+CLT-0742,Thiago Ribeiro,53004999266,1979-12-25,thiago.ribeiro53@outlook.com,71928298825,Rio De Janeiro,RJ,2122.86,premium,2017-04-30
+CLT-0082,Eduarda Ferreira,06762676586,1979-09-17,eduarda.ferreira94@outlook.com,47946953664,Rio De Janeiro,RJ,10994.49,premium,2015-01-10
+CLT-0699,Eduarda Costa,97477656590,1983-03-23,eduarda.costa27@gmail.com,51953144444,Rio De Janeiro,RJ,4740.17,varejo,2024-09-08
+CLT-0290,Marcos Rodrigues,77881161620,1955-04-16,marcos.rodrigues1@outlook.com,31942338169,Vitória,ES,17536.35,private,2024-07-06
+CLT-0291,Renato Ribeiro,58947735228,1962-07-20,renato.ribeiro67@outlook.com,61978203936,Goiânia,GO,5172.34,premium,2015-02-15
+CLT-0445,Henrique Oliveira Lima,55906700099,1972-08-02,henrique.lima99@bol.com.br,85950993931,Goiânia,GO,4432.14,varejo,2023-05-31
+CLT-0409,Bruno Freitas Monteiro,98069087261,1963-03-08,bruno.monteiro25@gmail.com,11982413849,Goiânia,GO,7011.51,premium,2020-02-12
+CLT-0261,Otávio Carvalho,43629489786,1992-09-22,otavio.carvalho56@bol.com.br,41928194597,Fortaleza,CE,21965.38,premium,2020-12-20
+CLT-0607,Otávio Araújo Monteiro,10781871096,1988-02-14,otavio.monteiro40@hotmail.com,51931116417,Fortaleza,CE,30006.83,varejo,2024-02-13
+CLT-0586,Nicolas Cardoso,74067582676,1950-04-24,nicolas.cardoso39@hotmail.com,11980403619,Manaus,AM,17889.1,premium,2024-01-30
+CLT-0089,Gabriela Lima Oliveira,07446660993,2000-05-15,gabriela.oliveira84@outlook.com,,São Paulo,SP,22270.99,premium,2026-05-18
+CLT-0440,Felipe Gomes,97040953141,2000-07-19,felipe.gomes87@bol.com.br,61979981721,Belo Horizonte,MG,4244.07,varejo,2020-07-25
+CLT-0457,Marcos Gomes,29758917045,1962-05-18,marcos.gomes83@bol.com.br,85966785811,Fortaleza,CE,3913.56,varejo,2016-07-01
+CLT-0157,Gabriela Carvalho,90772625701,1992-12-30,gabriela.carvalho46@outlook.com,85915355859,Brasília,DF,7995.28,premium,2019-08-24
+CLT-0222,Rafaela Rocha,68633414111,1969-10-09,rafaela.rocha12@outlook.com,41929027025,Salvador,BA,17196.05,varejo,2023-07-12
+CLT-0435,Felipe Santos,57669470318,1979-10-19,felipe.santos52@hotmail.com,19942827595,Curitiba,PR,8209.16,varejo,2024-09-11
+CLT-0686,Sofia Monteiro Gomes,92383193489,1980-02-11,sofia.gomes71@yahoo.com.br,,Manaus,AM,2026.64,varejo,2020-10-16
+CLT-0755,Paulo Silva Rodrigues,93554592055,1974-10-17,paulo.rodrigues91@bol.com.br,81991252446,Curitiba,PR,13181.2,premium,2025-01-27
+CLT-0390,Sofia Dias Souza,63963845269,1957-05-11,sofia.souza22@bol.com.br,51950803042,Porto Alegre,RS,5335.6,varejo,2026-02-28
+CLT-0163,Lucas Cardoso,24471462730,1987-10-03,LUCAS.CARDOSO63@GMAIL.COM,21969278872,Recife,PE,39764.02,varejo,2025-04-09
+CLT-0785,Natália Dias,02913813014,1973-03-07,natalia.dias60@yahoo.com.br,,Porto Alegre,RS,3892.33,varejo,2016-07-29
+CLT-0024,Rafaela Martins,61172400504,1992-02-14,rafaela.martins41@yahoo.com.br,41997027751,Goiânia,GO,8821.05,private,2018-10-24
+CLT-0061,Juliana Lima Ferreira,65511047541,1979-04-13,juliana.ferreira11@bol.com.br,81993957685,Vitória,ES,30718.88,premium,2017-02-01
+CLT-0482,Diego Rodrigues Barbosa,13626084639,1971-12-13,diego.barbosa41@hotmail.com,61973262036,Goiânia,GO,17266.04,varejo,2025-05-09
+CLT-0346,Carla Rodrigues,46558665254,1980-04-12,carla.rodrigues80@gmail.com,,Porto Alegre,RS,56181.39,varejo,2022-02-23
+CLT-0490,Olívia Cardoso Cardoso,04379686800,1985-07-30,olivia.cardoso21@hotmail.com,19961413307,Curitiba,PR,11720.33,varejo,2016-02-15
+CLT-0661,Paulo Cardoso Rocha,82532083168,1998-07-08,PAULO.ROCHA@HOTMAIL.COM,71946417804,Manaus,AM,5188.84,varejo,2016-12-05
+CLT-0093,Nicolas Dias,39348356420,2063-09-27,nicolas.dias90@hotmail.com,62988756416,Rio De Janeiro,RJ,,varejo,2017-06-23
+CLT-0733,Débora Monteiro,61548720124,1962-01-31,debora.monteiro62@yahoo.com.br,61957526521,Belo Horizonte,MG,35141.13,varejo,2022-03-09
+CLT-0555,Ana Silva,74003910193,2003-04-17,ana.silva52@gmail.com,85939103203,Porto Alegre,RS,12112.29,varejo,2017-06-02
+CLT-0710,Natália Carvalho,1065735174,1999-05-19,natalia.carvalho30@hotmail.com,41966553000,Manaus,AM,10769.48,varejo,2016-10-29
+CLT-0342,Kevin Ribeiro,6283333939,1953-10-26,kevin.ribeiro52@yahoo.com.br,71971406028,Recife,PE,58094.97,varejo,2017-06-09
+CLT-0237,Juliana Freitas,44344812308,1964-06-11,,31955503178,Recife,PE,57145.09,varejo,2020-01-08
+CLT-0453,Henrique  Santos Souza,81435614038,2001-11-11,henrique.souza50@yahoo.com.br,41923939361,Brasília,DF,40316.93,premium,2021-03-13
+CLT-0773,Larissa Campos,67698897988,1959-04-21,larissa.campos11@yahoo.com.br,51955676396,Campinas,SP,5011.77,premium,2021-12-08
+CLT-0767,Eduarda Dias,28535416019,1968-01-22,eduarda.dias48@gmail.com,85952871323,Manaus,AM,,premium,2025-07-27
+CLT-0750,Débora Barbosa,82924828732,1963-04-26,debora.barbosa94@hotmail.com,81995479597,Fortaleza,CE,21718.45,private,2024-11-24
+CLT-0196,Sofia Ribeiro,94200749465,1977-04-30,sofia.ribeiro22@hotmail.com,85956091745,Brasília,DF,2482.58,premium,2016-07-26
+CLT-0521,Débora Rodrigues,00794193245,1961-12-15,debora.rodrigues30@gmail.com,85922331974,Belo Horizonte,MG,2644.67,varejo,2021-10-12
+CLT-0339,Lucas Cardoso,73280771130,1955-12-20,lucas.cardoso69@outlook.com,62921044960,Rio De Janeiro,RJ,6065.49,private,2018-03-15
+CLT-0272,Juliana Ribeiro,51241893898,1956-01-10,JULIANA.RIBEIRO@HOTMAIL.COM,,Salvador,BA,14486.46,private,2015-03-09
+CLT-0511,Otávio Moreira Pereira,25152174653,1957-06-17,otavio.pereira23@bol.com.br,81993861819,Rio De Janeiro,RJ,1450.3,varejo,2017-05-29
+CLT-0247,Larissa Rodrigues,55168740903,1973-02-21,larissa.rodrigues47@outlook.com,31927255762,Belo Horizonte,MG,19005.68,varejo,2016-08-20
+CLT-0176,Fátima Silva,17765612481,1989-09-09,fatima.silva31@outlook.com,85963538426,Goiânia,GO,45254.11,premium,2019-02-14
+CLT-0754,Karina Costa Rocha,53950111525,1983-06-02,karina.rocha59@yahoo.com.br,31985858296,Vitória,ES,19054.81,varejo,2018-12-22
+CLT-0293,Karina Silva,81386667548,1968-11-10,karina.silva1@outlook.com,,Manaus,AM,52289.38,premium,2018-03-16
+CLT-0731,Larissa Pereira,73564078308,1984-10-02,,47982659526,Recife,PE,16078.75,varejo,2023-04-30
+CLT-0338,Ana Ferreira,43460666437,1976-01-22,ana.ferreira52@gmail.com,62974791684,Recife,PE,30327.41,premium,2020-01-01
+CLT-0480,Felipe Monteiro,0107126158,1988-04-17,felipe.monteiro66@hotmail.com,,Curitiba,PR,5740.25,premium,2024-01-10
+CLT-0322,Helena Cardoso,93238223116,1991-09-01,helena.cardoso33@hotmail.com,41947065106,Rio De Janeiro,RJ,2010.33,varejo,2022-05-16
+CLT-0430,Nicolas Pereira Souza,20190725873,2006-10-25,nicolas.souza18@gmail.com,62945071606,Rio De Janeiro,RJ,24637.36,varejo,2023-07-13
+CLT-0160,Larissa Araújo,59274523805,1970-07-05,larissa.araujo22@bol.com.br,81998453663,Porto Alegre,RS,6703.15,varejo,2015-07-24
+CLT-0010,Carla Lima Ferreira,85014294019,1973-08-12,carla.ferreira29@gmail.com,61981499379,Vitória,ES,11343.24,varejo,2019-07-04
+CLT-0311,Érico Barbosa,79083350615,1996-12-13,erico.barbosa2@gmail.com,,Campinas,SP,2053.21,premium,2020-07-24
+CLT-0758,Sofia Silva,10769262654,1954-04-08,sofia.silva94@outlook.com,81968102787,Fortaleza,CE,,premium,2020-05-08
+CLT-0236,Thiago Nascimento,85571617688,1953-06-09,thiago.nascimento39@yahoo.com.br,51931125745,Rio De Janeiro,RJ,4409.0,varejo,2019-08-04
+CLT-0423,César Monteiro Martins,91165020002,1975-01-29,cesar.martins55@outlook.com,,Florianópolis,SC,4927.97,varejo,2017-06-08
+CLT-0497,João Silva,63029559636,2000-11-21,joao.silva84@outlook.com,31976943823,Florianópolis,SC,2559.95,varejo,2019-01-13
+CLT-0422,João Dias Nascimento,27045238885,2054-09-02,joao.nascimento23@yahoo.com.br,61980147817,Recife,PE,47843.15,varejo,2026-05-11
+CLT-0465,César Moreira,90069680186,1969-11-11,cesar.moreira88@bol.com.br,11949588847,Brasília,DF,21330.31,private,2017-10-23
+CLT-0540,Érico Santos Nascimento,04169105302,2050-05-25,erico.nascimento96@gmail.com,71988036975,Vitória,ES,14934.65,varejo,2023-09-15
+CLT-0398,Otávio Pereira,20673231829,1954-09-28,otavio.pereira10@hotmail.com,19999572313,Recife,PE,14300.91,varejo,2018-09-10
+CLT-0523,Carla Moreira,00173259007,1953-02-25,carla.moreiragmail.com,41915678396,Belo Horizonte,MG,14524.42,varejo,2019-07-31
+CLT-0583,Ana Araújo,67333297323,1999-01-26,ana.araujo61@gmail.com,51952441654,Goiânia,GO,4599.62,varejo,2017-12-28
+CLT-0549,Priscila Teixeira Santos,50193545036,1971-05-16,priscila.santos23@gmail.com,85956664410,Florianópolis,SC,8806.83,private,2020-04-07
+CLT-0050,Renato Dias Rodrigues,82677345401,1969-03-13,renato.rodrigues68@hotmail.com,62916113868,Fortaleza,CE,2703.48,premium,2015-10-25
+CLT-0202,Thiago Cardoso,33153779599,1977-12-02,,71963843658,Brasília,DF,2590.17,varejo,2015-12-12
+CLT-0269,Tatiane Carvalho Souza,58835868122,1991-08-17,tatiane.souza85@bol.com.br,61985283294,Porto Alegre,RS,25572.14,varejo,2021-10-17
+CLT-0752,Yasmin Santos Costa,92809166316,1950-12-18,yasmin.costa88@hotmail.com,47973168720,São Paulo,SP,6378.85,varejo,2020-07-30
+CLT-0526,Igor Cardoso,00884474083,1965-04-26,igor.cardoso33@yahoo.com.br,21927941532,Brasília,DF,40547.81,varejo,2017-06-12
+CLT-0002,Olívia Freitas Gomes,32764835030,2001-10-18,olivia.gomes47@hotmail.com,21944566155,Porto Alegre,RS,2114.4,premium,2025-04-16
+CLT-0045,Priscila Gomes,56258815371,1994-06-09,priscila.gomes89@gmail.com,,Florianópolis,SC,5370.3,varejo,2024-05-18
+CLT-0663,Érico Ribeiro,86263956126,1973-04-14,erico.ribeiro59@yahoo.com.br,,Florianópolis,SC,2396.74,premium,2026-02-02
+CLT-0805,Olívia Monteiro,95940389554,1950-02-01,olivia.monteiro73@yahoo.com.br,19970294250,Brasília,DF,42910.44,varejo,2026-01-01
+CLT-0300,Gustavo Pereira,17863767316,1991-02-26,gustavo.pereira27@yahoo.com.br,31975516359,Florianópolis,SC,16216.56,varejo,2024-07-10
+CLT-0524,Henrique Silva Rodrigues,60234422521,1956-12-10,henrique.rodrigues64@gmail.com,,Recife,PE,2552.85,varejo,2016-05-11
+CLT-0039,Paulo Ribeiro,62185188888,2054-04-14,paulo.ribeiro69@gmail.com,11973387116,Porto Alegre,RS,,premium,2022-09-25
+CLT-0524,Henrique Silva Rodrigues,60234422521,1956-12-10,HENRIQUE.RODRIGUES64@GMAIL.COM,,Recife,PE,2552.85,varejo,2016-05-11
+CLT-0817,Vera Carvalho,67016562774,1961-08-13,vera.carvalho56@gmail.com,61991463164,São Paulo,SP,30802.73,premium,2018-04-23
+CLT-0536,Bruno Souza,03197899901,1972-04-03,bruno.souza31@yahoo.com.br,,Porto Alegre,RS,1613.01,private,2017-08-14
+CLT-0256,Nicolas Campos,84964985601,1964-11-11,nicolas.campos78@yahoo.com.br,31968615019,Rio De Janeiro,RJ,2244.49,varejo,2023-06-05
+CLT-0129,Ana Martins,69804204394,1975-10-23,ana.martins27@bol.com.br,11920917367,Sao Paulo,SP,4663.96,premium,2023-01-29
+CLT-0676,Otávio  Ribeiro,10384715675,1983-07-11,otavio.ribeiro59@gmail.com,11965492254,Porto Alegre,RS,13198.76,premium,2015-06-13
+CLT-0102,Wesley Moreira Ferreira,70435811288,1960-04-17,wesley.ferreira50@outlook.com,19944927950,Vitória,ES,18936.03,varejo,2024-10-05
+CLT-0384,Bruno Ribeiro Teixeira,39464083037,1998-04-05,bruno.teixeira78@bol.com.br,11922465483,Manaus,AM,15090.72,premium,2024-07-05
+CLT-0597,Thiago Oliveira,20761239612,1981-08-24,thiago.oliveira92@yahoo.com.br,19914566467,Manaus,AM,30542.98,varejo,2017-03-28
+CLT-0145,Lucas Carvalho,75197128478,2005-11-30,lucas.carvalho74@yahoo.com.br,21950178740,Manaus,AM,14020.75,varejo,2016-10-01
+CLT-0507,Priscila Rocha,36510344442,1989-04-27,priscila.rocha93@gmail.com,71989295493,Brasília,DF,2737.98,varejo,2023-12-28
+CLT-0001,Olívia Costa,02654235116,1971-12-21,,47953331711,Goiânia,GO,27953.51,varejo,2023-06-28
+CLT-0496,Vinícius Carvalho,19537749266,1976-05-31,vinicius.carvalho43@gmail.com,47961867784,Vitória,ES,54407.26,premium,2026-03-03
+CLT-0782,Thiago Rocha,17148541839,1991-06-07,thiago.rocha48@gmail.com,61931467012,Salvador,BA,47533.16,varejo,2025-01-03
+CLT-0590,Priscila Santos Teixeira,86555751247,1968-01-24,PRISCILA.TEIXEIRA@HOTMAIL.COM,11973319581,Vitória,ES,47375.35,private,2024-04-22
+CLT-0688,Wesley Campos,29912699452,1954-04-04,wesley.campos91@yahoo.com.br,21926871375,Fortaleza,CE,1822.24,premium,2023-07-30
+CLT-0712,Paulo Carvalho,31730332496,1968-09-26,paulo.carvalho86@yahoo.com.br,81964619189,Curitiba,PR,32406.56,premium,2022-08-19
+CLT-0313,Wesley Freitas,84712705877,2002-02-11,wesley.freitas65@yahoo.com.br,,Fortaleza,CE,7781.46,varejo,2019-05-02
+CLT-0115,Otávio Ribeiro,42843479552,1954-10-11,otavio.ribeiro16@bol.com.br,62970996981,Curitiba,PR,2312.16,varejo,2019-01-13
+CLT-0775,Isabela Dias,27433037271,1962-03-18,isabela.dias85@yahoo.com.br,31956575886,Recife,PE,4635.45,varejo,2024-05-20
+CLT-0077,Eduarda Almeida Costa,49035213568,1979-09-04,eduarda.costa53@gmail.com,31915097625,Vitória,ES,10491.63,premium,2020-08-08
+CLT-0608,Eduarda  Araújo Rodrigues,52241142066,1988-05-19,eduarda.rodrigues7@hotmail.com,21951956238,Goiânia,GO,12022.89,private,2015-06-06
+CLT-0613,Marcos Almeida Lima,49312146394,1991-06-10,marcos.lima99@gmail.com,31962975554,Recife,PE,3374.57,varejo,2018-09-09
+CLT-0029,Henrique Rocha,89178390847,1965-08-27,,81975807984,Belo Horizonte,MG,1883.81,varejo,2024-12-12
+CLT-0373,Olívia Oliveira Dias,64281319092,1953-04-04,olivia.diasgmail.com,71937514870,Vitória,ES,11517.83,premium,2016-09-23
+CLT-0118,Eduarda Lima Cardoso,22820055778,1968-11-22,EDUARDA.CARDOSO@HOTMAIL.COM,31998353900,Curitiba,PR,3879.4,varejo,2024-10-03
+CLT-0416,Henrique Carvalho,52165058714,1986-02-19,henrique.carvalho19@gmail.com,21995663854,Manaus,AM,3510.13,varejo,2022-05-05
+CLT-0502,Eduarda Almeida Costa,18750677610,1999-07-15,eduarda.costa13@bol.com.br,61937361102,Fortaleza,CE,55908.46,premium,2017-02-04
+CLT-0014,Débora Gomes Freitas,2980699016,2001-08-25,debora.freitas78@hotmail.com,51972116363,Vitória,ES,35554.29,premium,2023-03-07
+CLT-0206,Wesley Martins,11150835354,1995-12-16,wesley.martins23@yahoo.com.br,19954964123,Curitiba,PR,1814.34,premium,2020-09-11
+CLT-0197,Natália Martins Rocha,70026876811,1999-04-12,natalia.rocha85@outlook.com,19982933022,Recife,PE,5569.1,premium,2023-11-01
+CLT-0711,Sofia Martins Araújo,70305687094,1963-04-07,,62972581078,Belém,PA,38151.83,private,2020-09-06
+CLT-0504,Ana  Freitas,67080897474,2006-05-14,ana.freitas61@hotmail.com,47956567645,Curitiba,PR,2982.63,premium,2019-05-05
+CLT-0743,João Rodrigues,6871413493,1988-05-11,joao.rodrigues45@bol.com.br,,Curitiba,PR,4983.06,premium,2023-12-03
+CLT-0184,Vinícius Martins Teixeira,61027769749,1966-05-07,vinicius.teixeira24@hotmail.com,62974715958,Manaus,AM,1707.19,varejo,2019-04-13
+CLT-0305,Yasmin Ferreira Oliveira,77382646091,1958-09-19,yasmin.oliveira77@outlook.com,61923614400,Fortaleza,CE,14691.89,varejo,2021-10-26
+CLT-0025,Rafaela Carvalho Rodrigues,67136959440,1994-08-25,rafaela.rodrigues10@yahoo.com.br,,Campinas,SP,11589.85,varejo,2021-02-06
+CLT-0781,Paulo Campos,15337435670,1960-07-11,paulo.campos55@bol.com.br,81937149380,Curitiba,PR,2674.02,varejo,2022-02-24
+CLT-0355,Priscila Santos,37003322855,1985-12-08,priscila.santos58@hotmail.com,71913159359,Salvador,BA,1553.55,varejo,2024-04-22
+CLT-0075,Carla Cardoso,06174451870,1966-01-21,carla.cardoso41@outlook.com,51949748600,Salvador,BA,3117.19,varejo,2019-05-20
+CLT-0783,Gustavo Nascimento,76947308824,1956-08-31,gustavo.nascimento48@yahoo.com.br,62969374964,Florianópolis,SC,1949.87,premium,2018-12-10
+CLT-0498,Natália Silva,22121548158,2005-12-08,natalia.silva98@gmail.com,,Recife,PE,6082.53,varejo,2015-11-03
+CLT-0092,Tatiane Carvalho Campos,23098215064,1964-12-25,tatiane.campos63@outlook.com,47917852771,Recife,PE,,varejo,2024-05-07
+CLT-0594,Tatiane Cardoso,29586841962,1992-09-04,tatiane.cardosogmail.com,31980341510,Manaus,AM,6820.16,varejo,2023-06-14
+CLT-0611,Érico Ferreira,66535389629,1964-02-24,erico.ferreira48@hotmail.com,41935245745,Rio De Janeiro,RJ,26370.16,premium,2023-09-16
+CLT-0808,Juliana Freitas,47719888374,1998-05-29,juliana.freitas74@gmail.com,11976079324,Fortaleza,CE,5250.46,varejo,2015-11-29
+CLT-0436,João Oliveira,11079771400,1989-10-03,,41999102113,Vitória,ES,12977.65,premium,2021-01-17
+CLT-0370,Priscila Rodrigues Costa,99485320895,1953-06-09,priscila.costa73@gmail.com,71943289875,Salvador,BA,31086.95,varejo,2017-01-16
+CLT-0215,Yasmin Pereira,74233629344,1996-10-13,yasmin.pereira19@hotmail.com,41954548883,Manaus,AM,4281.54,varejo,2023-07-12
+CLT-0375,Priscila Campos,19541966645,1999-05-16,priscila.campos92@yahoo.com.br,11945318135,Brasília,DF,40126.1,varejo,2025-02-02
+CLT-0500,Marcos Monteiro Teixeira,31800366602,1997-09-20,marcos.teixeira20@yahoo.com.br,61942223642,São Paulo,SP,2593.88,premium,2023-11-19
+CLT-0715,Nicolas Teixeira,89622068243,1953-01-09,nicolas.teixeira96@yahoo.com.br,41918503344,Fortaleza,CE,7033.96,private,2020-02-26
+CLT-0505,Kevin Monteiro Nascimento,86052102627,1960-02-05,KEVIN.NASCIMENTO@HOTMAIL.COM,85920021296,Florianópolis,SC,14404.45,varejo,2020-08-31
+CLT-0533,Débora Cardoso Ribeiro,65622419768,1977-09-25,debora.ribeiro13@hotmail.com,51958078754,Fortaleza,CE,3117.31,varejo,2018-07-31
+CLT-0438,Sofia Souza,82116020418,2002-04-17,sofia.souza22@yahoo.com.br,41970519404,Curitiba,PR,3165.87,varejo,2025-01-22
+CLT-0764,Eduarda Cardoso Nascimento,07122600822,1964-09-04,eduarda.nascimento10@bol.com.br,81955833979,São Paulo,SP,1646.61,varejo,2021-06-01
+CLT-0410,Otávio Costa,26958264186,1971-11-21,otavio.costa1@outlook.com,19921924549,Curitiba,PR,25698.25,varejo,2024-07-21
+CLT-0501,Otávio Ferreira Cardoso,76332838963,1979-04-22,otavio.cardoso79@hotmail.com,62923649284,Rio De Janeiro,RJ,22385.65,varejo,2024-11-01
+CLT-0182,Diego Campos Oliveira,21476492515,1968-12-18,diego.oliveira99@yahoo.com.br,71988055398,Manaus,AM,9955.29,premium,2024-06-23
+CLT-0665,Priscila Teixeira,15922912706,1983-01-11,priscila.teixeira30@gmail.com,21917155329,Vitoria,ES,5935.78,varejo,2018-04-04
+CLT-0345,Marcos Rocha,15970996254,1951-10-13,marcos.rocha39@yahoo.com.br,85913849021,Campinas,SP,3999.37,private,2020-10-05
+CLT-0404,Gabriela Dias,06011987561,1958-01-30,gabriela.dias26@hotmail.com,71995921137,Curitiba,PR,28671.29,premium,2015-06-08
+CLT-0199,Bruno  Dias,58030468750,1967-03-19,bruno.dias87@gmail.com,,Campinas,SP,3178.49,premium,2016-01-09
+CLT-0420,Yasmin Pereira Cardoso,51381865507,1980-09-07,yasmin.cardoso50@hotmail.com,85963141256,Curitiba,PR,4273.36,varejo,2021-11-06
+CLT-0214,Bruno Moreira,75245086403,1970-11-14,bruno.moreiragmail.com,41943729836,Manaus,AM,1602.62,varejo,2020-07-27
+CLT-0107,Otávio Araújo,91846386557,2068-07-20,OTAVIO.ARAUJO@HOTMAIL.COM,11992223276,Porto Alegre,RS,6351.05,varejo,2026-07-17
+CLT-0625,Olívia Ribeiro,72508423242,1958-05-14,olivia.ribeiro3@bol.com.br,11954872310,Salvador,BA,44551.22,varejo,2017-06-25
+CLT-0705,Larissa Teixeira,42526119789,1971-04-16,larissa.teixeira50@yahoo.com.br,,Vitória,ES,3966.59,premium,2025-02-15
+CLT-0253,Gustavo Martins,92098196027,1965-02-08,gustavo.martins51@outlook.com,31949274633,Campinas,SP,3142.14,varejo,2020-02-07
+CLT-0076,Priscila  Araújo Nascimento,41038657191,1963-07-05,priscila.nascimento95@outlook.com,71922262020,Brasília,DF,1528.69,private,2020-04-23
+CLT-0618,Igor Almeida,54013153506,1976-06-05,igor.almeida79@gmail.com,19940397365,Brasília,DF,5205.28,varejo,2022-09-22
+CLT-0265,Tatiane Silva Carvalho,82142369143,1977-03-29,tatiane.carvalho56@outlook.com,41973287923,Brasília,DF,11017.2,premium,2020-10-11
+CLT-0382,César Dias,51004627765,1975-06-05,cesar.dias86@bol.com.br,,Fortaleza,CE,2904.64,varejo,2019-02-16
+CLT-0566,Lucas  Nascimento,80820391702,2000-09-07,lucas.nascimento88@gmail.com,19953345597,Brasília,DF,24407.15,varejo,2023-07-23
+CLT-0371,Helena Ferreira Ferreira,16772696084,1993-08-16,HELENA.FERREIRA@HOTMAIL.COM,71995846608,Campinas,SP,43988.65,varejo,2023-09-13
+CLT-0359,Ana Teixeira Santos,09687304519,1988-10-19,ana.santos26@outlook.com,85936857115,Recife,PE,29392.74,premium,2018-08-04
+CLT-0347,Eduarda  Costa Teixeira,19102312110,1959-08-09,,41918192301,Belém,PA,26249.75,premium,2019-04-28
+CLT-0657,Carla Dias,88804851420,1980-02-09,carla.dias91@yahoo.com.br,41975655878,Fortaleza,CE,6545.14,varejo,2018-03-31
+CLT-0086,Tatiane Cardoso Araújo,3074505444,1959-06-24,tatiane.araujo23@outlook.com,,Belo Horizonte,MG,36068.8,premium,2022-03-13
+CLT-0791,Samuel Rodrigues Oliveira,11892605554,1950-09-06,samuel.oliveira49@gmail.com,51938747524,Rio De Janeiro,RJ,1459.92,premium,2026-12-05
+CLT-0542,Fátima Silva Costa,87156478370,2003-09-13,fatima.costa36@yahoo.com.br,51947399684,Vitória,ES,3000.96,varejo,2024-02-12
+CLT-0707,Otávio Ferreira Almeida,70906761837,1964-11-16,otavio.almeida22@bol.com.br,61910428916,Rio De Janeiro,RJ,40326.33,private,2016-06-22
+CLT-0386,Eduarda Freitas,26384091122,1971-06-29,eduarda.freitas65@bol.com.br,62997624181,Belo Horizonte,MG,2323.65,varejo,2022-11-18
+CLT-0231,Ana Dias Ribeiro,2850676251,1986-05-18,ana.ribeiro68@bol.com.br,85929315752,Goiânia,GO,5518.93,varejo,2019-12-10
+CLT-0573,João Dias,74890476078,1954-01-14,joao.dias62@hotmail.com,,Rio De Janeiro,RJ,11579.24,premium,2025-07-20
+CLT-0315,Isabela Carvalho,74113257970,1981-09-22,isabela.carvalho48@gmail.com,62989795093,Recife,PE,7059.14,premium,2023-05-31
+CLT-0020,Thiago Rocha,46488771906,1973-09-25,thiago.rocha19@gmail.com,,Fortaleza,CE,15140.53,varejo,2015-06-19
+CLT-0486,Yasmin Dias Ferreira,35305970255,1952-12-18,yasmin.ferreira73@yahoo.com.br,81977754381,Sao Paulo,SP,13296.55,varejo,2016-03-10
+CLT-0091,Felipe  Lima Martins,66760083505,1962-11-07,felipe.martins98@hotmail.com,11910675076,Salvador,BA,4212.96,premium,2021-12-31
+CLT-0815,Gabriela Dias,44950609580,1974-04-08,gabriela.dias70@gmail.com,81952976578,São Paulo,SP,5748.03,varejo,2019-12-11
+CLT-0816,Vera Rodrigues Oliveira,91953016472,2001-04-09,vera.oliveira84@yahoo.com.br,21986905808,Goiânia,GO,18175.66,varejo,2022-03-07
+CLT-0241,Igor Costa Rocha,25267711964,1997-04-08,igor.rocha64@outlook.com,31939797308,Campinas,SP,3352.34,premium,2025-10-17
+CLT-0399,Bruno Freitas,50902556184,1951-01-13,bruno.freitas82@bol.com.br,21999413423,Vitória,ES,52214.93,premium,2025-10-09
+CLT-0740,Olívia Pereira,65461253606,1951-09-07,olivia.pereira45@yahoo.com.br,,Rio De Janeiro,RJ,3336.01,varejo,2021-09-26
+CLT-0122,Karina Rodrigues,00528127358,1951-09-05,karina.rodrigues89@bol.com.br,81941611349,Curitiba,PR,10984.67,private,2018-08-01
+CLT-0645,Mariana Ferreira Martins,10480283541,1985-11-12,mariana.martins26@gmail.com,47939441828,Vitória,ES,3761.96,varejo,2020-11-20
+CLT-0629,Fátima Nascimento,91177666505,1957-06-07,fatima.nascimento57@outlook.com,71920963048,Curitiba,PR,17388.46,private,2016-09-12
+CLT-0706,Nicolas Pereira,73805203881,1983-05-27,NICOLAS.PEREIRA@HOTMAIL.COM,62980269404,Goiânia,GO,18200.02,varejo,2021-08-04
+CLT-0101,Karina  Teixeira,83281826886,1961-02-09,karina.teixeira77@gmail.com,41964376424,Recife,PE,18117.68,varejo,2025-08-26
+CLT-0360,Gustavo Araújo,7820582958,2002-01-20,gustavo.araujo70@yahoo.com.br,41974932339,Goiânia,GO,15225.82,private,2026-03-31
+CLT-0444,Samuel Oliveira,98748694155,1958-11-09,samuel.oliveira24@yahoo.com.br,19918072812,Fortaleza,CE,7762.33,premium,2019-01-19
+CLT-0317,Helena Ribeiro,95119181828,1960-10-09,helena.ribeiro66@outlook.com,81941272197,Manaus,AM,8385.01,premium,2021-03-18
+CLT-0621,Karina Almeida,35999400410,1986-07-28,karina.almeida71@hotmail.com,81928974738,Brasília,DF,41442.0,varejo,2017-03-08
+CLT-0116,Paulo Cardoso,89061203471,1974-03-21,paulo.cardoso23@yahoo.com.br,61969035222,Campinas,SP,18192.68,premium,2022-11-16
+CLT-0094,Eduarda Campos,00225579415,1995-11-28,eduarda.campos7@gmail.com,71975578479,Goiânia,GO,18226.98,varejo,2025-09-22
+CLT-0576,Igor Dias,70898709201,1975-05-06,igor.dias25@bol.com.br,85956224643,Manaus,AM,3468.0,premium,2018-04-04
+CLT-0593,Natália Silva,44203158925,1976-11-02,,11986784132,Florianópolis,SC,21806.3,varejo,2020-06-02
+CLT-0748,Igor Freitas,15559062787,1972-11-04,igor.freitasgmail.com,61926053489,Porto Alegre,RS,3022.94,varejo,2023-02-10
+CLT-0534,Helena Souza,21564952549,1953-11-04,helena.souza41@outlook.com,71955285637,Goiania,GO,36771.05,varejo,2017-10-10
+CLT-0349,Igor Oliveira Rocha,57575747583,1994-04-24,igor.rochagmail.com,62967817713,Belo Horizonte,MG,2593.9,varejo,2024-01-17
+CLT-0626,Gabriela Martins,32959452315,2003-11-11,gabriela.martins64@bol.com.br,31996077338,Salvador,BA,3079.78,varejo,2018-02-19
+CLT-0683,Juliana Ribeiro,90525659950,1992-03-14,,51936884812,Rio De Janeiro,RJ,,varejo,2019-03-04
+CLT-0259,Vinícius Oliveira Rodrigues,88397745731,1973-04-19,vinicius.rodrigues18@bol.com.br,21967834971,Brasília,DF,50121.39,premium,2019-08-14
+CLT-0208,Vinícius Martins,86371597412,1998-03-26,vinicius.martins43@bol.com.br,11990051439,Recife,PE,54677.79,varejo,2023-08-28
+CLT-0187,Helena Lima,1837455084,2059-01-20,helena.lima46@hotmail.com,,Curitiba,PR,14041.75,varejo,2025-02-04
+CLT-0097,César Cardoso,10272614933,1990-09-10,CESAR.CARDOSO@HOTMAIL.COM,41984884122,Salvador,BA,12261.67,varejo,2024-04-18
+CLT-0238,Vera Araújo,89164983735,1981-03-04,vera.araujo38@outlook.com,71935508308,Curitiba,PR,8124.9,varejo,2023-08-04
+CLT-0766,Juliana Silva,80928261641,1951-07-04,juliana.silva7@yahoo.com.br,41990722221,Fortaleza,CE,7571.97,varejo,2015-09-30
+CLT-0557,Mariana Dias Souza,63494290461,2075-05-27,mariana.souza59@hotmail.com,21993828231,Rio De Janeiro,RJ,34480.49,premium,2026-02-02
+CLT-0280,Felipe Oliveira,94353537513,1984-10-03,felipe.oliveira69@gmail.com,71969292305,Campinas,SP,38893.17,varejo,2023-02-15
+CLT-0034,Karina Oliveira,77997995527,1979-11-18,karina.oliveira83@hotmail.com,51955001920,Porto Alegre,RS,1819.79,varejo,2025-05-10
+CLT-0008,Débora Oliveira Ferreira,82449353487,1998-03-27,DEBORA.FERREIRA84@BOL.COM.BR,11925127939,Campinas,SP,7176.97,varejo,2022-06-25
+CLT-0411,Otávio Martins,27300869661,1967-01-27,otavio.martins70@hotmail.com,71992554310,Vitória,ES,1829.32,premium,2022-06-07
+CLT-0655,Igor Rocha Barbosa,60919351174,1966-07-26,igor.barbosa64@hotmail.com,19946038434,Vitória,ES,16122.76,private,2024-05-16
+CLT-0038,Karina Rodrigues Carvalho,05152204727,1996-04-14,karina.carvalho58@outlook.com,21913115193,Fortaleza,CE,34958.46,private,2024-06-29
+CLT-0171,Débora Santos,86407905696,1986-12-16,debora.santosgmail.com,81926394373,Recife,PE,33044.67,premium,2022-08-13
+CLT-0584,Fátima Moreira,91401693328,1991-04-15,fatima.moreira91@hotmail.com,51991042156,Florianópolis,SC,5907.13,varejo,2015-03-16
+CLT-0442,Priscila Barbosa,14131935923,1973-09-11,priscila.barbosa62@hotmail.com,41987847678,Campinas,SP,43030.01,varejo,2020-07-29
+CLT-0601,Marcos Monteiro,30291585423,1969-08-13,marcos.monteiro21@bol.com.br,71971082130,Belo Horizonte,MG,29340.86,private,2020-09-14
+CLT-0802,Carla Ferreira,43333188384,1959-02-25,carla.ferreiragmail.com,21930956899,Belo Horizonte,MG,2495.08,varejo,2015-04-14
+CLT-0256,Nicolas Campos,84964985601,1964-11-11,nicolas.campos78@yahoo.com.br,31968615019,Rio De Janeiro,RJ,2244.49,varejo,2023-06-05
+CLT-0012,Natália Rocha,93676320163,1975-06-18,natalia.rocha26@hotmail.com,85986111822,Florianópolis,SC,1353.74,varejo,2017-09-21
+CLT-0203,Larissa Campos Freitas,50033423425,1970-08-29,larissa.freitas1@outlook.com,41913523884,Belém,PA,25696.08,varejo,2015-06-21
+CLT-0736,Igor Santos,76958444202,1986-11-02,igor.santos38@outlook.com,62934445113,São Paulo,SP,6263.95,varejo,2019-04-17
+CLT-0614,Isabela  Campos Teixeira,49719670683,1968-05-27,isabela.teixeira74@outlook.com,,Manaus,AM,24393.49,premium,2022-06-11
+CLT-0806,João Campos,48749391660,1951-05-30,joao.campos22@outlook.com,11911705953,São Paulo,SP,6455.65,varejo,2015-07-07
+CLT-0633,Fátima Cardoso,9344212914,1979-05-03,fatima.cardoso97@yahoo.com.br,11940483414,Recife,PE,10151.88,premium,2026-01-25
+CLT-0437,Vera Monteiro Santos,66984166123,1978-05-30,vera.santos51@bol.com.br,81988625360,Salvador,BA,22604.75,varejo,2022-03-25
+CLT-0137,Wesley Teixeira,60558303441,1961-08-21,wesley.teixeira38@hotmail.com,61911002865,Vitória,ES,3607.94,premium,2015-08-27
+CLT-0451,Natália Gomes,93781053912,1992-07-16,natalia.gomes86@outlook.com,85951859828,Manaus,AM,17910.22,premium,2024-07-18
+CLT-0268,Ana Costa,97916202232,1956-01-10,ana.costa57@yahoo.com.br,41988018871,Campinas,SP,4048.15,premium,2026-01-21
+CLT-0670,Gustavo Monteiro,92177351668,2003-08-20,gustavo.monteiro40@outlook.com,,Campinas,SP,3240.24,varejo,2025-09-22
+CLT-0787,Karina Silva,25723163160,1968-06-23,karina.silva64@gmail.com,19992542258,Vitória,ES,33797.7,varejo,2016-03-25
+CLT-0745,Ana Santos,49812130088,1954-10-23,ana.santosgmail.com,85959637151,Campinas,SP,53843.52,varejo,2024-01-30
+CLT-0551,Vera Freitas,2647528646,1966-09-05,vera.freitas13@bol.com.br,11979752973,Rio De Janeiro,RJ,29163.2,varejo,2015-05-08
+CLT-0426,Renato Ferreira,2052229993,1984-04-22,renato.ferreira61@hotmail.com,62979976356,Campinas,SP,6593.67,private,2021-10-19
+CLT-0516,Isabela Nascimento,37361587366,1977-07-30,isabela.nascimento42@bol.com.br,41967129350,Vitória,ES,16606.15,varejo,2020-02-07
+CLT-0218,Rafaela Dias,64027011686,1988-04-18,rafaela.dias94@gmail.com,31938907138,Curitiba,PR,17570.41,premium,2025-11-29
+CLT-0747,Paulo Ribeiro,28267126937,2004-07-04,paulo.ribeiro36@gmail.com,,Rio De Janeiro,RJ,4163.04,premium,2024-04-18
+CLT-0646,Paulo Freitas,47053110583,1957-10-12,paulo.freitasgmail.com,,Goiânia,GO,13149.07,premium,2026-04-20
+CLT-0697,Otávio Barbosa Barbosa,62720536499,1969-08-30,otavio.barbosa3@outlook.com,31996956718,Rio De Janeiro,RJ,44602.17,varejo,2018-11-06
+CLT-0552,Karina Dias Souza,7797247925,1978-04-19,karina.souza35@hotmail.com,21992209933,Campinas,SP,4128.08,premium,2022-03-17
+CLT-0186,Sofia Martins Cardoso,39597246657,1970-10-22,sofia.cardoso83@outlook.com,47943945627,Campinas,SP,49048.37,varejo,2025-10-30
+CLT-0124,Marcos Almeida Souza,17058650948,1961-08-23,marcos.souza76@outlook.com,,Brasília,DF,4493.25,premium,2020-03-07
+CLT-0159,Lucas Gomes Oliveira,04310385695,1966-11-24,lucas.oliveira67@gmail.com,81996869986,Salvador,BA,14497.22,varejo,2017-12-16
+CLT-0563,Priscila Pereira,94203983135,2000-01-11,priscila.pereira30@yahoo.com.br,47913152850,Brasília,DF,19064.66,premium,2024-05-21
+CLT-0166,Carla  Rocha Monteiro,24955289389,1993-12-06,carla.monteiro2@gmail.com,11996644555,Florianópolis,SC,7640.44,premium,2018-08-11
+CLT-0143,Vera Souza,78469973354,2056-03-30,vera.souzagmail.com,,Belo Horizonte,MG,1778.75,premium,2026-06-13
+CLT-0387,Natália Freitas,30073095055,1959-04-17,natalia.freitas9@hotmail.com,61985932396,Vitória,ES,42298.31,varejo,2017-08-12
+CLT-0461,Eduarda Carvalho,67398344883,1966-08-06,eduarda.carvalho98@hotmail.com,,Goiânia,GO,13048.12,private,2021-09-06
+CLT-0780,Rafaela Campos,62394599426,1996-03-12,rafaela.campos89@hotmail.com,11962924380,São Paulo,SP,38609.8,varejo,2016-01-22
+CLT-0013,Wesley Campos,14345581223,1989-09-15,wesley.campos58@outlook.com,41920527797,Florianópolis,SC,51106.99,premium,2024-04-29
+CLT-0412,Samuel Oliveira Gomes,05344077794,1896-01-01,samuel.gomesgmail.com,81932897606,Vitória,ES,27835.98,premium,2017-12-01
+CLT-0362,Henrique Ribeiro Araújo,75504768169,1966-08-30,henrique.araujo48@hotmail.com,19990331447,São Paulo,SP,1968.33,premium,2016-12-12
+CLT-0421,Wesley Souza,53641547155,2006-09-05,wesley.souza77@yahoo.com.br,31969984513,Curitiba,PR,4396.17,varejo,2017-08-03
+CLT-0395,Thiago Ribeiro Souza,82073651189,1983-04-10,THIAGO.SOUZA@HOTMAIL.COM,,Curitiba,PR,6252.98,varejo,2018-07-09
+CLT-0413,Larissa Barbosa,25523561781,1994-02-23,larissa.barbosa3@yahoo.com.br,31926652287,Salvador,BA,,varejo,2019-11-28
+CLT-0227,Nicolas Nascimento Pereira,84872975859,1978-03-13,nicolas.pereira39@outlook.com,21917324884,Manaus,AM,4272.21,varejo,2019-10-30
+CLT-0019,Vinícius Oliveira,13341232812,2000-06-30,vinicius.oliveira67@yahoo.com.br,47986995771,Goiânia,GO,18322.0,varejo,2021-05-05
+CLT-0667,Yasmin Ribeiro Ferreira,3788119389,1988-10-25,yasmin.ferreira47@outlook.com,85937311775,Brasília,DF,36576.71,varejo,2015-04-17
+CLT-0007,Diego Teixeira,16998543534,1955-02-17,diego.teixeira9@bol.com.br,,Brasília,DF,7378.19,varejo,2015-03-18
+CLT-0703,Fátima Carvalho,89676353673,1953-03-01,fatima.carvalho68@outlook.com,61996377676,São Paulo,SP,18846.38,varejo,2017-11-15
+CLT-0728,Vinícius Martins,50534941971,1963-08-31,vinicius.martins17@outlook.com,,Manaus,AM,1811.65,varejo,2023-10-19
+CLT-0483,Samuel Oliveira Oliveira,75207020426,1965-08-20,,21991282574,Salvador,BA,3910.96,varejo,2018-11-05
+CLT-0471,Isabela Monteiro Oliveira,91983210291,2071-12-11,,19922128695,Belo Horizonte,MG,43794.83,varejo,2015-01-12
+CLT-0318,Eduarda Pereira,39587395923,1979-08-24,eduarda.pereira3@yahoo.com.br,31926531429,Belém,PA,3528.59,varejo,2015-11-20
+CLT-0475,César Almeida,45080959481,2007-01-13,cesar.almeida94@bol.com.br,71933366293,Belém,PA,17682.72,varejo,2023-07-21
+CLT-0803,Larissa Ribeiro,83792640532,1960-03-13,larissa.ribeiro38@outlook.com,19980239558,Curitiba,PR,5104.44,varejo,2020-11-25
+CLT-0793,Érico Rocha,50811364034,1998-01-02,,85954564093,Florianopolis,SC,3037.99,varejo,2025-05-24
+CLT-0224,Marcos Campos Barbosa,44386125904,1970-12-03,,31982398904,Florianópolis,SC,33932.29,varejo,2019-11-22
+CLT-0538,Henrique Ribeiro Souza,1837530768,2003-09-19,henrique.souza20@hotmail.com,51999621244,São Paulo,SP,43523.15,varejo,2023-03-21
+CLT-0763,Lucas Dias Campos,50617906701,1973-08-01,lucas.campos19@yahoo.com.br,31916331914,Curitiba,PR,6032.63,varejo,2020-02-09
+CLT-0690,Kevin Santos Dias,51452058028,1994-01-03,kevin.dias35@bol.com.br,11957191469,Goiânia,GO,52202.46,private,2019-01-30
+CLT-0212,Diego Nascimento,06005313122,1989-08-29,diego.nascimento7@bol.com.br,61962864105,Belém,PA,17205.37,private,2023-11-11
+CLT-0746,Diego Rodrigues,18822063186,1956-07-08,diego.rodrigues32@yahoo.com.br,71920344659,Curitiba,PR,3183.37,premium,2024-10-04
+CLT-0297,Felipe Campos,43244741759,1991-04-20,felipe.campos95@hotmail.com,85983673793,Florianópolis,SC,11444.92,varejo,2023-08-26
+CLT-0015,Bruno Campos,37452991241,1992-12-03,bruno.campos97@gmail.com,,Vitória,ES,4397.12,varejo,2020-12-06
+CLT-0450,Renato Cardoso Barbosa,3069358824,1993-11-23,,41960061193,Porto Alegre,RS,7105.38,premium,2017-04-30
+CLT-0042,Érico Araújo Barbosa,10278681447,1953-02-14,erico.barbosa48@outlook.com,62990474279,Belo Horizonte,MG,9652.34,premium,2025-02-20
+CLT-0571,Yasmin Rocha,7669194896,2007-10-25,yasmin.rocha43@bol.com.br,85915567062,Campinas,SP,8667.33,premium,2015-05-02
+CLT-0271,Yasmin Souza,13020569815,1965-08-13,yasmin.souza57@outlook.com,62996539129,Salvador,BA,6839.69,varejo,2025-08-16
+CLT-0330,Mariana Teixeira Gomes,58562614991,1964-04-14,mariana.gomes51@bol.com.br,11950289978,Florianópolis,SC,43918.78,premium,2015-08-04
+CLT-0617,Larissa Souza,0288141128,1979-01-23,larissa.souza13@bol.com.br,31989392230,Brasília,DF,17802.96,private,2024-10-12
+CLT-0235,Érico Rodrigues Araújo,75541108255,2007-07-10,,47996647088,Recife,PE,2752.95,varejo,2023-08-13
+CLT-0191,Vinícius Gomes,11062737158,1981-06-06,vinicius.gomes14@outlook.com,71953209172,Curitiba,PR,4366.5,premium,2025-12-24
+CLT-0172,Marcos Nascimento,95419876351,1968-07-02,,51980929846,Porto Alegre,RS,3491.7,premium,2020-08-20
+CLT-0165,Wesley Dias,2798524013,2000-02-14,WESLEY.DIAS@HOTMAIL.COM,41960363053,Belo Horizonte,MG,56936.39,varejo,2024-07-12
+CLT-0121,Diego Rodrigues,71837645208,1963-09-02,diego.rodrigues2@gmail.com,19958954255,Florianópolis,SC,6716.07,premium,2019-11-20
+CLT-0220,Paulo Araújo,84357978630,1978-04-13,paulo.araujo13@gmail.com,61912726901,Salvador,BA,6642.39,varejo,2022-04-20
+CLT-0216,Larissa Silva,73230085766,1963-12-26,larissa.silva71@hotmail.com,61972929020,Fortaleza,CE,35005.88,varejo,2016-08-06
+CLT-0737,Eduarda Gomes,9396061047,1991-06-14,EDUARDA.GOMES@HOTMAIL.COM,62930332670,Curitiba,PR,2472.63,private,2017-10-22
+CLT-0598,Bruno Nascimento Lima,33486497035,1958-10-26,bruno.lima16@gmail.com,81993727779,Campinas,SP,4093.8,varejo,2020-01-20
+CLT-0296,Ana Rocha,04485157919,1996-04-28,ana.rocha94@outlook.com,21939902415,Belo Horizonte,MG,27947.34,varejo,2015-06-14
+CLT-0503,Isabela Carvalho,02665686295,2005-09-23,isabela.carvalho76@yahoo.com.br,61983434344,Vitória,ES,10963.4,premium,2018-08-24
+CLT-0131,Vinícius Moreira Martins,2518812520,1987-06-11,vinicius.martins26@hotmail.com,71959708258,Recife,PE,6673.11,premium,2021-02-20
+CLT-0528,Bruno Silva,00916923273,1955-06-21,bruno.silva76@gmail.com,47997158533,Curitiba,PR,2646.81,varejo,2023-09-16
+CLT-0225,Sofia Souza,63013674926,1982-01-07,sofia.souza8@gmail.com,19924688596,Curitiba,PR,19340.76,varejo,2021-03-04
+CLT-0448,Felipe Pereira Teixeira,61212038437,1993-03-03,,62973229721,Campinas,SP,19930.59,premium,2018-10-14
+CLT-0468,Kevin Araújo,23621921581,2062-10-09,kevin.araujo17@gmail.com,62910706997,Florianópolis,SC,4015.4,premium,2017-07-07
+CLT-0223,Igor Martins,72942095481,1984-10-27,igor.martins14@yahoo.com.br,47988364534,São Paulo,SP,11791.11,premium,2023-06-13
+CLT-0262,Gustavo Barbosa,74325122572,2005-08-23,gustavo.barbosa27@outlook.com,71964731341,Brasília,DF,6676.34,varejo,2016-09-22
+CLT-0622,Yasmin Freitas,78302801041,2067-05-06,yasmin.freitas1@yahoo.com.br,62963974974,Salvador,BA,34375.37,varejo,2017-10-31
+CLT-0512,Larissa Carvalho Campos,64509999001,1975-01-19,larissa.camposgmail.com,61988594733,Goiânia,GO,12752.65,premium,2020-03-31
+CLT-0158,Natália  Rocha,79335548640,1954-02-12,natalia.rocha83@bol.com.br,81992159629,Rio De Janeiro,RJ,17282.91,varejo,2021-07-22
+CLT-0605,Vinícius Costa,59227764149,1988-12-17,vinicius.costa97@hotmail.com,,Vitória,ES,50017.52,premium,2022-03-07
+CLT-0587,Gustavo Rodrigues,49149860995,2006-11-27,gustavo.rodrigues76@hotmail.com,51944003341,Brasília,DF,47959.31,premium,2024-10-15
+CLT-0376,Olívia Carvalho Rodrigues,66194588707,1977-03-02,olivia.rodrigues54@gmail.com,51993023718,Florianópolis,SC,15680.27,varejo,2021-01-17
+CLT-0119,Priscila Ferreira,74064930853,1993-03-18,,71950943675,Goiânia,GO,3093.84,premium,2023-06-27
+CLT-0134,Helena Martins,51868926860,1985-07-04,helena.martins33@outlook.com,47934593656,Brasília,DF,2821.78,varejo,2016-02-25
+CLT-0055,Carla Barbosa,83644089268,1971-12-16,carla.barbosa30@bol.com.br,19972449592,Goiânia,GO,16070.38,premium,2018-07-05
+CLT-0414,Kevin Lima,48016440373,1961-11-16,kevin.lima70@outlook.com,71987079752,Curitiba,PR,16711.84,varejo,2025-05-22
+CLT-0525,Samuel Gomes,17948024559,2002-02-05,,11931532732,Manaus,AM,5393.0,private,2022-03-03
+CLT-0488,Vera Campos,72021707548,1961-06-07,vera.campos67@bol.com.br,62977637070,São Paulo,SP,3187.89,private,2017-12-16
+CLT-0739,Gabriela Rodrigues Araújo,74499987093,1997-03-29,gabriela.araujo59@outlook.com,41974415733,Porto Alegre,RS,11225.52,varejo,2024-01-27
+CLT-0519,Otávio Freitas,84987455135,2060-05-31,otavio.freitas6@yahoo.com.br,31990433019,Porto Alegre,RS,2389.65,varejo,2015-06-24
+CLT-0537,Kevin Freitas,78550113753,2002-11-27,kevin.freitas20@outlook.com,,Florianópolis,SC,17015.07,varejo,2024-12-13
+CLT-0544,Otávio Monteiro,15976405356,1973-08-14,otavio.monteiro31@outlook.com,85985919188,Campinas,SP,7046.93,varejo,2018-07-24
+CLT-0759,Otávio Martins,81678434073,2004-11-01,otavio.martins74@yahoo.com.br,19926038634,Goiânia,GO,50253.12,varejo,2019-03-05
+CLT-0642,Bruno Moreira,43907054736,1951-11-06,bruno.moreira49@outlook.com,,Curitiba,PR,5565.02,premium,2017-02-26
+CLT-0424,Yasmin Martins,36774620258,1950-02-07,yasmin.martins37@outlook.com,,Vitória,ES,35433.03,varejo,2019-11-25
+CLT-0565,Juliana Freitas Santos,17262829682,1995-05-11,juliana.santos81@outlook.com,51996276345,Campinas,SP,,varejo,2025-07-04
+CLT-0772,Samuel Dias,4829878192,1967-10-25,samuel.dias54@outlook.com,81951849844,Goiania,GO,6272.9,varejo,2015-10-02
+CLT-0718,Eduarda Rodrigues Pereira,70051028745,1964-04-22,eduarda.pereira61@bol.com.br,11934103608,Fortaleza,CE,4851.88,varejo,2015-01-30
+CLT-0556,Helena Silva,50095372346,1954-03-13,helena.silva88@yahoo.com.br,19934024652,Campinas,SP,54812.34,varejo,2019-12-06
+CLT-0374,Henrique Freitas,72239594737,1997-11-26,henrique.freitas2@outlook.com,41936551692,Rio De Janeiro,RJ,3181.9,varejo,2015-05-01
+CLT-0509,Paulo Barbosa Costa,83958558522,1964-11-29,paulo.costa61@hotmail.com,19966733292,Manaus,AM,6380.42,varejo,2024-09-02
+CLT-0730,Felipe Gomes,38816878518,1953-12-17,felipe.gomes66@bol.com.br,71917496742,Florianópolis,SC,21530.6,premium,2023-07-25
+CLT-0615,Thiago Santos Freitas,84101679301,2072-02-25,thiago.freitas86@yahoo.com.br,21926997561,Campinas,SP,3133.11,varejo,2016-11-11
+CLT-0309,Larissa Campos Santos,12565237341,2004-06-15,larissa.santos92@bol.com.br,81990535009,Porto Alegre,RS,17449.08,premium,2024-12-21
+CLT-0302,Ana Pereira,58512686120,1986-04-15,ana.pereira52@yahoo.com.br,47952244237,Rio De Janeiro,RJ,45364.69,varejo,2025-03-16
+CLT-0232,Natália  Santos,18826170243,1977-07-05,natalia.santos39@outlook.com,61980173984,Goiânia,GO,1535.76,varejo,2024-11-01
+CLT-0310,Otávio Gomes Silva,64303942904,2003-05-01,otavio.silva21@bol.com.br,85976498814,Fortaleza,CE,5638.78,varejo,2022-09-20
+CLT-0649,Bruno Oliveira,56518871148,1978-06-13,bruno.oliveira50@outlook.com,19969151714,Salvador,BA,6122.21,varejo,2020-11-15
+CLT-0211,César Campos,74220912418,1984-12-03,cesar.campos18@outlook.com,19911835476,Fortaleza,CE,5589.1,premium,2019-10-11
+CLT-0047,Gabriela Barbosa,25952694958,1961-07-18,gabriela.barbosa52@bol.com.br,62959118780,Brasília,DF,52158.63,varejo,2017-06-16
+CLT-0026,Isabela Nascimento Souza,58842474517,1969-08-25,isabela.souza94@hotmail.com,41975116992,Curitiba,PR,4828.0,premium,2020-12-06
+CLT-0095,Isabela Dias,67014508993,1960-02-22,isabela.dias73@yahoo.com.br,61995049570,Goiânia,GO,5208.88,varejo,2024-09-15
+CLT-0030,Isabela Rodrigues,65766156545,1955-11-23,isabela.rodrigues65@bol.com.br,81920992494,Rio De Janeiro,RJ,7068.93,varejo,2017-02-03
+CLT-0479,Mariana Barbosa,53322273938,1960-11-29,mariana.barbosa77@hotmail.com,51969578760,Belo Horizonte,MG,6340.25,premium,2019-12-25
+CLT-0631,César Freitas,78417837659,1990-10-09,cesar.freitas90@gmail.com,41995813284,São Paulo,SP,46348.22,varejo,2021-03-01
+CLT-0443,César Freitas,96617718249,1985-10-12,cesar.freitas19@outlook.com,19916859957,Porto Alegre,RS,3938.13,premium,2015-01-24
+CLT-0638,Érico Monteiro Barbosa,05058353458,1993-05-25,erico.barbosa61@yahoo.com.br,61982043456,Campinas,SP,6106.14,varejo,2020-05-15
+CLT-0169,Henrique Rodrigues,87734778485,1959-09-11,henrique.rodrigues64@gmail.com,11915178051,Brasília,DF,3438.56,premium,2025-04-02
+CLT-0462,Diego Carvalho,55107409131,1979-12-19,diego.carvalho11@outlook.com,81993157355,Belo Horizonte,MG,3414.03,varejo,2015-06-06
+CLT-0595,Larissa Gomes,17882426559,1987-09-06,larissa.gomes24@bol.com.br,,Florianópolis,SC,1770.0,private,2025-04-27
+CLT-0284,Sofia Ribeiro,51315285478,1975-04-15,sofia.ribeiro16@yahoo.com.br,62961571628,Vitória,ES,9042.37,premium,2022-02-14
+CLT-0249,João Oliveira Rodrigues,67782659608,1974-03-18,joao.rodrigues86@outlook.com,21933696304,Vitória,ES,18739.48,varejo,2022-05-02
+CLT-0751,Larissa Costa Silva,29555100510,1998-11-15,larissa.silva33@gmail.com,62998105193,Recife,PE,6724.11,premium,2018-11-17
+CLT-0233,Ana Araújo,72568621102,1988-12-07,ana.araujo43@gmail.com,19948741852,Fortaleza,CE,13751.54,varejo,2015-03-07
+CLT-0372,Vera Dias,06955607676,1956-09-12,vera.dias92@outlook.com,,Campinas,SP,5207.5,premium,2018-07-19
+CLT-0700,Sofia Pereira,10011547734,1986-10-31,sofia.pereira63@yahoo.com.br,19921755299,Goiânia,GO,6622.7,varejo,2018-11-17
+CLT-0126,Olívia Almeida Martins,33441969315,1996-09-06,olivia.martins72@bol.com.br,62925625921,São Paulo,SP,4196.22,varejo,2023-07-23
+CLT-0100,Wesley Rocha,43973598933,1959-03-13,wesley.rocha90@outlook.com,,Brasília,DF,999999999.0,private,2017-04-09
+CLT-0491,Tatiane Oliveira,46652752332,1989-04-23,tatiane.oliveira20@hotmail.com,41911523233,Florianópolis,SC,7061.19,premium,2017-02-06
+CLT-0628,Diego Souza,25647185594,2002-06-27,diego.souza78@gmail.com,47933364717,Belo Horizonte,MG,10205.69,varejo,2022-09-20
+CLT-0610,Gustavo  Gomes Freitas,73498529735,1961-04-29,gustavo.freitas66@yahoo.com.br,,Recife,PE,16945.08,varejo,2022-06-16
+CLT-0071,Nicolas  Lima Oliveira,42622189092,1988-05-07,nicolas.oliveira16@yahoo.com.br,19934807745,Goiânia,GO,2826.87,varejo,2019-11-15
+CLT-0219,Mariana Santos,37710040901,1966-08-27,mariana.santos80@gmail.com,,Rio De Janeiro,RJ,11517.51,varejo,2022-07-23
+CLT-0210,Kevin Araújo Dias,03248413768,2001-08-09,kevin.dias54@hotmail.com,21992646341,Belém,PA,6279.81,premium,2019-08-26
+CLT-0278,Kevin Santos,32290310287,1950-10-18,kevin.santos36@bol.com.br,,Fortaleza,CE,13285.27,varejo,2020-09-10
+CLT-0320,Mariana Almeida,43167045023,1987-03-30,mariana.almeida1@yahoo.com.br,85935513297,Salvador,BA,18289.92,premium,2016-05-16
+CLT-0473,Sofia Ribeiro,25854218808,2070-02-28,sofia.ribeiro50@hotmail.com,47926077677,Goiânia,GO,9061.52,varejo,2021-12-23
+CLT-0725,Vera Silva,06476144278,1972-10-05,vera.silva31@yahoo.com.br,62963226211,Florianópolis,SC,2013.78,varejo,2021-05-16
+CLT-0361,Renato Rocha,13723081721,1972-07-11,renato.rocha48@bol.com.br,71959624428,Brasília,DF,17832.33,premium,2019-04-14
+CLT-0314,Natália Gomes,79643474524,1977-07-24,natalia.gomes20@outlook.com,62961668368,Rio De Janeiro,RJ,6948.79,varejo,2024-10-05
+CLT-0392,Marcos Rodrigues,07819754373,1993-12-14,marcos.rodrigues96@yahoo.com.br,81973995417,Salvador,BA,9325.0,varejo,2017-12-29
+CLT-0612,Kevin Nascimento Dias,61682497939,1980-05-23,kevin.dias35@hotmail.com,85922647803,Campinas,SP,40008.45,varejo,2026-03-20
+CLT-0606,Renato Barbosa Lima,93251149788,1974-04-27,renato.lima97@hotmail.com,41920403195,Manaus,AM,,varejo,2022-03-24
+CLT-0146,Diego Martins,29049047128,2004-12-31,diego.martins46@outlook.com,51931715603,Brasília,DF,19074.37,varejo,2017-07-02
+CLT-0365,Lucas Rocha Almeida,60508018498,2060-09-11,lucas.almeidagmail.com,31962354992,Brasília,DF,4334.8,varejo,2019-03-26
+CLT-0294,Renato Ribeiro,0375830945,2060-10-15,renato.ribeiro55@hotmail.com,85912125473,Brasília,DF,19047.27,varejo,2025-09-26
+CLT-0285,Fátima Ferreira Rocha,89320649693,2006-12-04,fatima.rocha17@hotmail.com,19939505916,Brasília,DF,3899.2,varejo,2025-11-17
+CLT-0084,Tatiane Oliveira Lima,34902115869,1958-09-14,tatiane.lima12@bol.com.br,,Goiânia,GO,2152.56,varejo,2025-08-25
+CLT-0397,Otávio Dias,74549303646,1973-11-16,otavio.dias43@yahoo.com.br,,Rio De Janeiro,RJ,42691.74,varejo,2017-07-16
+CLT-0016,Carla Araújo,84987769453,2000-09-10,,81949958613,Florianópolis,SC,34487.52,premium,2022-07-18
+CLT-0125,Lucas Cardoso,97558556659,2001-02-20,lucas.cardoso86@yahoo.com.br,,Curitiba,PR,10164.76,premium,2023-11-27
+CLT-0651,Rafaela Pereira,14469567406,1962-03-18,rafaela.pereira31@yahoo.com.br,41969295979,Fortaleza,CE,11459.36,varejo,2020-09-14
+CLT-0004,Otávio Silva Moreira,82278248963,1963-09-18,otavio.moreira40@hotmail.com,62942956107,Porto Alegre,RS,23426.14,premium,2023-05-18
+CLT-0226,Felipe Souza,51826068887,1960-06-18,felipe.souza36@gmail.com,,Fortaleza,CE,45783.87,varejo,2019-01-20
+CLT-0270,Larissa Moreira,31177533126,1983-10-12,larissa.moreira42@bol.com.br,21920145103,Rio De Janeiro,RJ,3401.43,varejo,2016-08-20
+CLT-0264,Igor Araújo Almeida,56964430985,1982-01-17,igor.almeida81@bol.com.br,81966855725,Recife,PE,,private,2025-06-17
+CLT-0085,Carla Monteiro,63294511686,1985-02-06,carla.monteiro58@hotmail.com,85985061202,Curitiba,PR,3387.94,varejo,2024-05-30
+CLT-0729,Igor Souza Campos,42059868569,2074-11-29,igor.campos47@yahoo.com.br,51941104535,Curitiba,PR,20031.03,private,2026-01-05
+CLT-0303,Vera Rocha Araújo,63218122764,1993-12-04,vera.araujo23@outlook.com,47949999577,Fortaleza,CE,2085.15,varejo,2022-04-29
+CLT-0493,Bruno Oliveira,77546199240,2002-03-04,bruno.oliveira8@yahoo.com.br,41997958220,Brasília,DF,30357.74,premium,2018-04-30
+CLT-0036,Renato Rocha,14865281685,1958-06-24,renato.rocha11@bol.com.br,41965988967,Goiânia,GO,46242.19,varejo,2018-06-23
+CLT-0671,Ana Dias,23654018144,1976-09-05,ana.dias13@bol.com.br,85954353544,Rio De Janeiro,RJ,2455.46,varejo,2018-07-12
+CLT-0673,Mariana Martins,95338619411,2007-09-08,,41912664776,Vitória,ES,35264.19,varejo,2021-04-16
+CLT-0098,Kevin Rocha,69958669346,1990-02-06,kevin.rocha56@bol.com.br,81931853263,Goiânia,GO,5787.5,premium,2026-06-28
+CLT-0236,Thiago Nascimento,85571617688,1953-06-09,thiago.nascimento39@yahoo.com.br,51931125745,Rio De Janeiro,RJ,4409.0,varejo,2019-08-04
+CLT-0406,Vera Moreira,50537666081,1969-05-05,VERA.MOREIRA@HOTMAIL.COM,11916904161,Recife,PE,31757.94,private,2019-07-23
+CLT-0140,Priscila Martins Freitas,49321495870,1978-10-15,,19918262735,Florianópolis,SC,10478.93,varejo,2023-10-16
+CLT-0727,Lucas Ferreira,16023251071,1954-12-07,lucas.ferreira82@bol.com.br,85991691887,Curitiba,PR,4358.95,varejo,2020-12-25
+CLT-0769,Olívia Dias,65974425269,1964-08-31,olivia.dias61@outlook.com,19937151920,Salvador,BA,13680.45,premium,2017-07-14
+CLT-0796,Priscila Almeida Nascimento,4771158821,1978-11-02,priscila.nascimento52@yahoo.com.br,11995485548,Manaus,AM,5996.58,varejo,2015-01-17
+CLT-0381,Tatiane Moreira Monteiro,75844663453,1985-01-24,tatiane.monteiro21@bol.com.br,31916022301,Vitória,ES,16268.38,premium,2018-04-24
+CLT-0106,Thiago Teixeira Barbosa,16580392827,1951-09-03,thiago.barbosa70@yahoo.com.br,,Belém,PA,12709.98,varejo,2025-08-12
+CLT-0195,Wesley Martins Pereira,78861405786,1977-11-07,wesley.pereira53@outlook.com,19948291305,Porto Alegre,RS,7737.1,premium,2017-11-04
+CLT-0619,Érico Gomes Lima,93005195675,1977-12-24,erico.lima77@bol.com.br,41969906964,Salvador,BA,18917.86,varejo,2018-08-04
+CLT-0369,Gustavo Lima,77894896340,1972-01-14,gustavo.limagmail.com,81927708804,Goiânia,GO,1573.74,varejo,2018-02-18
+CLT-0569,Otávio  Barbosa Pereira,92998335876,1962-02-07,otavio.pereira10@yahoo.com.br,81983884068,Campinas,SP,12898.18,varejo,2015-12-04
+CLT-0400,Wesley Santos Martins,84826691362,1963-07-06,,61970541802,Brasília,DF,11135.42,premium,2023-02-06
+CLT-0734,Thiago Cardoso,00091435294,2000-07-24,thiago.cardoso18@outlook.com,11990565554,São Paulo,SP,8158.28,varejo,2024-04-04
+CLT-0221,Felipe Araújo,48727178333,2004-12-16,felipe.araujo94@yahoo.com.br,62924652728,Curitiba,PR,1946.5,varejo,2018-05-08
+CLT-0701,Samuel Nascimento Campos,09579475816,1986-01-01,samuel.campos60@hotmail.com,85953002926,Salvador,BA,10853.45,private,2020-06-05
+CLT-0074,Marcos Araújo,17785079252,1964-12-09,marcos.araujo35@gmail.com,47928894742,Manaus,AM,,varejo,2020-06-26
+CLT-0213,Yasmin Silva Barbosa,92419562525,1981-12-28,yasmin.barbosa6@gmail.com,21964901289,Rio De Janeiro,RJ,3248.01,premium,2023-07-30
+CLT-0321,Wesley Ribeiro,49500507026,1983-07-05,wesley.ribeiro86@hotmail.com,47996043781,Curitiba,PR,,varejo,2017-01-24
+CLT-0484,Gustavo Carvalho,07598897865,2005-08-26,gustavo.carvalho22@yahoo.com.br,41960584326,Curitiba,PR,5677.43,varejo,2023-07-29
+CLT-0641,João Dias,61997165965,1954-04-24,joao.dias7@outlook.com,81976635849,Belém,PA,46488.61,varejo,2023-06-21
+CLT-0057,Nicolas Barbosa,35560932048,2004-03-23,nicolas.barbosa34@outlook.com,71958363497,Florianópolis,SC,59252.74,premium,2020-07-06
+CLT-0133,Gustavo Moreira,08680347644,1978-01-27,,,São Paulo,SP,5556.05,varejo,2025-02-17
+CLT-0682,Helena  Ribeiro Santos,56119989965,1966-05-03,helena.santos34@yahoo.com.br,21962149231,Recife,PE,7997.93,premium,2021-03-16
+CLT-0741,Ana Nascimento Ferreira,49330781117,1995-08-24,ana.ferreira60@gmail.com,71918531598,Recife,PE,,premium,2021-04-01
+CLT-0081,Otávio Araújo,95392644220,2059-12-14,otavio.araujo18@hotmail.com,71915303983,Belo Horizonte,MG,15671.19,varejo,2019-12-15
+CLT-0458,João  Costa,24728289540,2001-11-08,joao.costa9@yahoo.com.br,19994653994,Florianópolis,SC,1783.03,varejo,2025-02-24
+CLT-0513,Felipe Cardoso,85759582819,1958-07-17,felipe.cardoso95@bol.com.br,81985819827,Goiânia,GO,56037.76,varejo,2016-08-29
+CLT-0714,Karina Barbosa,60669926138,1963-08-11,,85988041553,Brasília,DF,58265.53,varejo,2024-11-19
+CLT-0724,Henrique Freitas Carvalho,33598474229,1979-10-17,henrique.carvalho43@yahoo.com.br,19962927836,Goiânia,GO,18545.62,varejo,2025-10-17
+CLT-0329,Paulo Rodrigues,71559835411,1981-12-08,paulo.rodrigues27@bol.com.br,81940507270,Porto Alegre,RS,11862.57,premium,2025-11-20
+CLT-0307,Kevin Gomes,09329981996,1994-05-24,kevin.gomes43@yahoo.com.br,41937278731,Brasília,DF,43206.31,private,2015-06-07
+CLT-0508,Yasmin Araújo Moreira,74764845593,1983-11-24,yasmin.moreira24@hotmail.com,21947979755,Salvador,BA,,varejo,2018-01-28
+CLT-0560,Renato Oliveira Araújo,84507860435,2061-10-14,renato.araujo78@bol.com.br,11965281598,Porto Alegre,RS,3769.15,varejo,2020-12-27
+CLT-0554,Natália Rodrigues Barbosa,01825624728,1962-02-09,natalia.barbosa82@outlook.com,51939531208,Salvador,BA,3860.69,varejo,2018-08-24
+CLT-0132,Sofia Moreira Ferreira,33060463331,1952-08-05,sofia.ferreira18@bol.com.br,81990276323,Curitiba,PR,27359.06,varejo,2024-08-03
+CLT-0546,Ana Almeida,06801770316,2001-11-28,ana.almeida73@bol.com.br,,Belo Horizonte,MG,27375.39,varejo,2019-06-13
+CLT-0046,Yasmin Almeida,97480162456,2001-10-29,,47941896939,Vitória,ES,19600.24,varejo,2026-04-23
+CLT-0726,João Campos,92528783573,2003-09-17,joao.campos74@hotmail.com,85926154626,Curitiba,PR,2668.34,varejo,2020-03-19
+CLT-0388,Wesley Santos,45618517446,1960-09-29,,61940272524,Fortaleza,CE,15977.88,premium,2017-03-31
+CLT-0389,Henrique Pereira,16046154021,1978-07-23,henrique.pereira98@bol.com.br,11927508814,Rio De Janeiro,RJ,8955.96,private,2024-02-08
+CLT-0446,Igor Rodrigues Pereira,38906235466,1988-12-09,igor.pereira97@yahoo.com.br,31978606513,Porto Alegre,RS,14854.52,premium,2023-11-23
+CLT-0485,Karina Souza Teixeira,87644867649,1966-04-20,karina.teixeira37@bol.com.br,51924587877,Curitiba,PR,2708.18,varejo,2022-10-18
+CLT-0407,Fátima Costa,68293844013,1952-06-12,fatima.costa33@outlook.com,85983304179,Recife,PE,2082.75,varejo,2018-01-23
+CLT-0452,Diego Gomes,23839728339,2003-09-23,diego.gomes58@hotmail.com,21991911492,Brasília,DF,54473.92,premium,2019-09-18
