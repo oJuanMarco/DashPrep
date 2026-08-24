@@ -15,6 +15,8 @@ for tabela in tabelas:
     # leitura dos dados da tabela pelo pandas
     dados = read_file(tabela)
     # função principal para o tratamento correto dos dados
-    treatment(dados)
+    tratamento = treatment(dados)
+    # exporta cópia de tabela tratada
+    tratamento.to_csv(f"{tabela}_nova.csv",index=False)
     # soma de variavel pra passagem da proxima tabela
     var+=1

@@ -1,6 +1,6 @@
+# esta função é a principal na parte de tratamento, chama todas as ordem na ordem estipulada para tratamento manual preciso
 from functions.blank_space_remove import blank_space_remove
 from functions.change_column_name import change_column_name
-from functions.remove_char import char_remove
 from functions.change_char import char_change
 from functions.change_type import change_column_type
 from functions.clear_screen import clear_screen
@@ -13,4 +13,5 @@ def treatment(query):
     treat_5 = change_column_type(treat_4)
 
     input(query)
-    clear_screen()    
+    clear_screen()
+    return treat_5    
